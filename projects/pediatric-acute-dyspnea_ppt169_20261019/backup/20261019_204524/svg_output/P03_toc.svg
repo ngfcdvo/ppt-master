@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF9F4"/>
+
+  <g id="header" data-pptx-bounds="60 60 1160 92" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="84" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">目录 / CONTENTS</text>
+    <text x="60" y="126" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">全篇结构</text>
+    <line x1="60" y1="142" x2="1220" y2="142" stroke="#D5CCB9" stroke-width="1"/>
+    <g transform="translate(1168,70) scale(1.1)" fill="none" stroke="#6E8A8F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M3.5 5.5l1.5 1.5l2.5 -2.5"/>
+      <path d="M3.5 11.5l1.5 1.5l2.5 -2.5"/>
+      <path d="M3.5 17.5l1.5 1.5l2.5 -2.5"/>
+      <path d="M11 6l9 0"/>
+      <path d="M11 12l9 0"/>
+      <path d="M11 18l9 0"/>
+    </g>
+  </g>
+
+  <g id="toc-left" data-pptx-bounds="60 176 500 430" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="232" font-family="Georgia, SimSun, serif" font-size="28" fill="#6E8A8F">00</text>
+    <text x="124" y="232" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#123A46">引言：为什么建立规范思路</text>
+    <text x="124" y="264" font-size="16" fill="#5B6A6B">呼吸困难为什么必须被当作急症</text>
+    <line x1="60" y1="284" x2="560" y2="284" stroke="#D5CCB9" stroke-width="1"/>
+
+    <text x="60" y="344" font-family="Georgia, SimSun, serif" font-size="28" fill="#6E8A8F">01</text>
+    <text x="124" y="344" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#123A46">定义及分类</text>
+    <text x="124" y="376" font-size="16" fill="#5B6A6B">主观体验、客观体征与三种分类轴</text>
+    <line x1="60" y1="396" x2="560" y2="396" stroke="#D5CCB9" stroke-width="1"/>
+
+    <text x="60" y="456" font-family="Georgia, SimSun, serif" font-size="28" fill="#6E8A8F">02</text>
+    <text x="124" y="456" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#123A46">机制</text>
+    <text x="124" y="488" font-size="16" fill="#5B6A6B">正常反射弧与四个致病环节</text>
+    <line x1="60" y1="508" x2="560" y2="508" stroke="#D5CCB9" stroke-width="1"/>
+
+    <text x="60" y="568" font-family="Georgia, SimSun, serif" font-size="28" fill="#6E8A8F">03</text>
+    <text x="124" y="568" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#123A46">病因及表现</text>
+    <text x="124" y="600" font-size="16" fill="#5B6A6B">肺、心、中毒、血源、神经精神</text>
+  </g>
+
+  <g id="toc-right" data-pptx-bounds="660 176 500 430" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="660" y="232" font-family="Georgia, SimSun, serif" font-size="28" fill="#6E8A8F">04</text>
+    <text x="724" y="232" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#123A46">分度与评估</text>
+    <text x="724" y="264" font-size="16" fill="#5B6A6B">轻中重三档与 ABCDE 五步</text>
+    <line x1="660" y1="284" x2="1160" y2="284" stroke="#D5CCB9" stroke-width="1"/>
+
+    <text x="660" y="344" font-family="Georgia, SimSun, serif" font-size="28" fill="#6E8A8F">05</text>
+    <text x="724" y="344" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#123A46">病因诊断思路</text>
+    <text x="724" y="376" font-size="16" fill="#5B6A6B">时相、哮鸣音、混合性、缓慢型</text>
+    <line x1="660" y1="396" x2="1160" y2="396" stroke="#D5CCB9" stroke-width="1"/>
+
+    <text x="660" y="456" font-family="Georgia, SimSun, serif" font-size="28" fill="#6E8A8F">06</text>
+    <text x="724" y="456" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#123A46">治疗原则</text>
+    <text x="724" y="488" font-size="16" fill="#5B6A6B">先救命后治病，再按病因处理</text>
+    <line x1="660" y1="508" x2="1160" y2="508" stroke="#D5CCB9" stroke-width="1"/>
+
+    <text x="660" y="568" font-family="Georgia, SimSun, serif" font-size="28" fill="#6E8A8F">07</text>
+    <text x="724" y="568" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#123A46">呼吸障碍</text>
+    <text x="724" y="600" font-size="16" fill="#5B6A6B">快速型与缓慢型两类呼吸障碍</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="60 672 1160 34" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="676" x2="1220" y2="676" stroke="#D5CCB9" stroke-width="1"/>
+    <text x="60" y="700" font-size="16" fill="#5B6A6B">共 21 页 · 约 35 分钟</text>
+    <text x="1220" y="700" font-size="16" fill="#5B6A6B" text-anchor="end">03 / 21</text>
+  </g>
+</svg>

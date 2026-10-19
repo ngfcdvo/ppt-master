@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF9F4"/>
+
+  <g id="header" data-pptx-bounds="60 60 1160 92" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="84" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">03 / 病因及表现</text>
+    <text x="60" y="126" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">肺源性：看时相，锁定病变部位</text>
+    <line x1="60" y1="142" x2="1220" y2="142" stroke="#D5CCB9" stroke-width="1"/>
+    <g transform="translate(1166,70) scale(1.15)" fill="none" stroke="#6E8A8F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M6.081 20c1.612 0 2.919 -1.335 2.919 -2.98v-9.763c0 -.694 -.552 -1.257 -1.232 -1.257c-.205 0 -.405 .052 -.584 .15l-.13 .083c-1.46 1.059 -2.432 2.647 -3.404 5.824c-.42 1.37 -.636 2.962 -.648 4.775c-.012 1.675 1.261 3.054 2.877 3.161l.203 .007"/>
+      <path d="M17.92 20c-1.613 0 -2.92 -1.335 -2.92 -2.98v-9.763c0 -.694 .552 -1.257 1.233 -1.257c.204 0 .405 .052 .584 .15l.13 .083c1.46 1.059 2.432 2.647 3.405 5.824c.42 1.37 .636 2.962 .648 4.775c.012 1.675 -1.261 3.054 -2.878 3.161l-.202 .007"/>
+      <path d="M9 12a3 3 0 0 0 3 -3a3 3 0 0 0 3 3"/>
+      <path d="M12 4v5"/>
+    </g>
+  </g>
+
+  <g id="pulmonary-table" data-pptx-bounds="60 155 1160 496" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="176" font-size="20" fill="#1E2A2C">可表现为吸气性、呼气性和混合性呼吸困难。</text>
+
+    <rect x="60" y="204" width="1160" height="46" fill="#6E8A8F"/>
+    <text x="80" y="235" font-size="18" font-weight="bold" fill="#FBF9F4">类型</text>
+    <text x="274" y="235" font-size="18" font-weight="bold" fill="#FBF9F4">常见病因</text>
+    <text x="744" y="235" font-size="18" font-weight="bold" fill="#FBF9F4">临床表现</text>
+
+    <rect x="60" y="250" width="4" height="118" fill="#123A46"/>
+    <text x="80" y="294" font-size="20" font-weight="bold" fill="#123A46">吸气性</text>
+    <text x="274" y="286" font-size="20" fill="#1E2A2C">喉、气管、大支气管病变：急性喉炎、<tspan x="274" dy="30">喉软化、气道异物、外部病变压迫等引起</tspan><tspan x="274" dy="30">的中心气道狭窄与阻塞</tspan></text>
+    <text x="744" y="286" font-size="20" fill="#1E2A2C">吸气费力，三凹征，张口呼吸，可伴<tspan x="744" dy="30">剧烈干咳及高调吸气性喉鸣。</tspan></text>
+    <line x1="60" y1="368" x2="1220" y2="368" stroke="#D5CCB9" stroke-width="1"/>
+
+    <rect x="60" y="368" width="4" height="112" fill="#6E8A8F"/>
+    <text x="80" y="410" font-size="20" font-weight="bold" fill="#123A46">呼气性</text>
+    <text x="274" y="402" font-size="20" fill="#1E2A2C">哮喘急性发作、毛细支气管炎、喘息性<tspan x="274" dy="30">支气管炎等</tspan></text>
+    <text x="744" y="402" font-size="20" fill="#1E2A2C">呼气延长及费力，常伴有呼气相哮鸣音。</text>
+    <line x1="60" y1="480" x2="1220" y2="480" stroke="#D5CCB9" stroke-width="1"/>
+
+    <rect x="60" y="480" width="4" height="124" fill="#B3402F"/>
+    <text x="80" y="524" font-size="20" font-weight="bold" fill="#123A46">混合性</text>
+    <text x="274" y="516" font-size="20" fill="#1E2A2C">重症肺炎、肺水肿、气胸、大量胸腔积<tspan x="274" dy="30">液、弥漫性肺间质疾病等</tspan></text>
+    <text x="744" y="516" font-size="20" fill="#1E2A2C">吸气及呼气时均感费力，呼吸增快，肺<tspan x="744" dy="30">部闻及干湿啰音，呼吸音增强或减弱。</tspan></text>
+    <line x1="60" y1="604" x2="1220" y2="604" stroke="#123A46" stroke-width="2"/>
+
+    <text x="60" y="640" font-size="16" fill="#5B6A6B">按时相定位，是四步法的第一步。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="60 672 1160 34" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="676" x2="1220" y2="676" stroke="#D5CCB9" stroke-width="1"/>
+    <text x="60" y="700" font-size="16" fill="#5B6A6B">儿童急性呼吸困难 · 诊疗思路</text>
+    <text x="1220" y="700" font-size="16" fill="#5B6A6B" text-anchor="end">09 / 21</text>
+  </g>
+</svg>

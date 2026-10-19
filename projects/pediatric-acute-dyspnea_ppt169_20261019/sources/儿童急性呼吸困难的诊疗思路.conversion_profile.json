@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "doc_to_md.py",
+  "conversion_type": "docx",
+  "source": {
+    "path": "儿童急性呼吸困难的诊疗思路.docx",
+    "name": "儿童急性呼吸困难的诊疗思路.docx",
+    "suffix": ".docx",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 33388
+  },
+  "outputs": {
+    "markdown": "儿童急性呼吸困难的诊疗思路.md",
+    "asset_dir": "",
+    "image_manifest": "",
+    "image_count": 0
+  },
+  "markdown": {
+    "line_count": 226,
+    "char_count": 5503,
+    "heading_count": 26,
+    "table_count": 3,
+    "image_ref_count": 0,
+    "link_count": 0
+  },
+  "warnings": []
+}

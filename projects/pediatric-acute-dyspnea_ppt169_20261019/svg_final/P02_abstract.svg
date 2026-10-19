@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF9F4" />
+
+  <g id="header" data-pptx-bounds="60 60 1160 92" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="84" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">00 / 摘要</text>
+    <text x="60" y="126" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">摘要：六个方面，一条主线</text>
+    <line x1="60" y1="142" x2="1220" y2="142" stroke="#D5CCB9" stroke-width="1" />
+  </g>
+
+  <g id="abstract-body" data-pptx-bounds="60 168 740 310" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="190" font-size="16" font-weight="bold" letter-spacing="2" fill="#6E8A8F">摘要原文</text>
+    <text font-size="20" fill="#1E2A2C" x="60" y="234">急性呼吸困难是儿童最常见的急诊就诊原因之一，正确判断病</text><text font-size="20" fill="#1E2A2C" x="60" y="270">因是合理治疗的关键。然而，儿童急性呼吸困难涉及的病因构</text><text font-size="20" fill="#1E2A2C" x="60" y="306">成了一个连续的疾病谱系，虽然已有多种检查手段，但病史、</text><text font-size="20" fill="#1E2A2C" x="60" y="342">临床表现及体征仍然是快速判断病因的主要依据。文章从呼吸</text><text font-size="20" fill="#1E2A2C" x="60" y="378">困难的定义及分类、机制、病因及表现、分度与评估、病因诊</text><text font-size="20" fill="#1E2A2C" x="60" y="414">断思路、治疗原则等 6 个方面进行阐述，以期为儿科医生规</text><text font-size="20" fill="#1E2A2C" x="60" y="450">范而有效地处理急性呼吸困难提供参考。</text></g>
+
+  <g id="abstract-panel" data-pptx-bounds="820 168 400 450" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="820" y="168" width="400" height="444" fill="#F0EBE0" />
+    <text x="852" y="212" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">关键词</text>
+    <text x="852" y="248" font-size="20" fill="#1E2A2C">儿童；呼吸困难；诊疗思路</text>
+    <line x1="852" y1="278" x2="1188" y2="278" stroke="#D5CCB9" stroke-width="1" />
+    <text x="852" y="316" font-size="16" font-weight="bold" letter-spacing="1" fill="#6E8A8F">全文覆盖 6 个方面</text>
+    <text font-size="18" fill="#1E2A2C" x="852" y="358">01　定义及分类</text><text font-size="18" fill="#1E2A2C" x="852" y="392">02　机制</text><text font-size="18" fill="#1E2A2C" x="852" y="426">03　病因及表现</text><text font-size="18" fill="#1E2A2C" x="852" y="460">04　分度与评估</text><text font-size="18" fill="#1E2A2C" x="852" y="494">05　病因诊断思路</text><text font-size="18" fill="#1E2A2C" x="852" y="528">06　治疗原则</text></g>
+
+  <g id="footer" data-pptx-bounds="60 672 1160 34" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="676" x2="1220" y2="676" stroke="#D5CCB9" stroke-width="1" />
+    <text x="60" y="700" font-size="16" fill="#5B6A6B">儿童急性呼吸困难 · 诊疗思路</text>
+    <text x="1220" y="700" font-size="16" fill="#5B6A6B" text-anchor="end">02 / 21</text>
+  </g>
+</svg>

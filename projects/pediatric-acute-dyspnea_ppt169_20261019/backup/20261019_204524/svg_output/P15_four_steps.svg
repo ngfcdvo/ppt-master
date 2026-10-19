@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF9F4"/>
+
+  <g id="header" data-pptx-bounds="60 60 1160 92" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="84" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">05 / 病因诊断思路</text>
+    <text x="60" y="126" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">四步法：把“呼吸困难”收窄成一个病因</text>
+    <line x1="60" y1="142" x2="1220" y2="142" stroke="#D5CCB9" stroke-width="1"/>
+    <g transform="translate(1176,70) scale(1.1)" fill="none" stroke="#123A46" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M3 17l4 -4l3 3l7 -9"/>
+      <path d="M17 7h3v3"/>
+    </g>
+  </g>
+
+  <g id="four-steps-lead" data-pptx-bounds="60 158 1160 34" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="180" font-size="20" fill="#1E2A2C">建议对急性呼吸困难患儿按以下 4 个步骤进行病因分析：</text>
+  </g>
+
+  <g id="step-01" data-pptx-bounds="60 200 1160 96" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="60" y="206" width="1160" height="92" fill="#F5F1E8"/>
+    <rect x="60" y="206" width="6" height="92" fill="#123A46"/>
+    <text x="92" y="264" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">01</text>
+    <text x="170" y="232" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">第 1 步</text>
+    <text x="170" y="260" font-size="20" font-weight="bold" fill="#123A46">区分吸气性或呼气性呼吸困难</text>
+    <text x="170" y="286" font-size="20" fill="#1E2A2C">判断病变在胸外大气道还是胸内小气道。</text>
+  </g>
+
+  <g id="step-02" data-pptx-bounds="100 300 1120 96" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="100" y="304" width="1120" height="92" fill="#F0EBE0"/>
+    <rect x="100" y="304" width="6" height="92" fill="#123A46"/>
+    <text x="132" y="362" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">02</text>
+    <text x="210" y="330" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">第 2 步</text>
+    <text x="210" y="358" font-size="20" font-weight="bold" fill="#123A46">区分喘息性疾病与呼吸急促</text>
+    <text x="210" y="384" font-size="20" fill="#1E2A2C">看有无呼气相喘鸣音。</text>
+  </g>
+
+  <g id="step-03" data-pptx-bounds="140 398 1080 96" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="140" y="402" width="1080" height="92" fill="#F5F1E8"/>
+    <rect x="140" y="402" width="6" height="92" fill="#123A46"/>
+    <text x="172" y="460" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">03</text>
+    <text x="250" y="428" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">第 3 步</text>
+    <text x="250" y="456" font-size="20" font-weight="bold" fill="#123A46">识别混合性呼吸困难</text>
+    <text x="250" y="482" font-size="20" fill="#1E2A2C">区分肺源性与心源性。</text>
+  </g>
+
+  <g id="step-04" data-pptx-bounds="180 496 1040 96" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="180" y="500" width="1040" height="92" fill="#F0EBE0"/>
+    <rect x="180" y="500" width="6" height="92" fill="#B3402F"/>
+    <text x="212" y="558" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#B3402F">04</text>
+    <text x="290" y="526" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">第 4 步</text>
+    <text x="290" y="554" font-size="20" font-weight="bold" fill="#123A46">注意缓慢型呼吸困难</text>
+    <text x="290" y="580" font-size="20" fill="#1E2A2C">识别神经、肌肉、药物所致通气不足。</text>
+  </g>
+
+  <g id="figure-caption" data-pptx-bounds="60 604 1160 30" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="626" font-size="16" fill="#5B6A6B">图 1｜急性呼吸困难患儿的病因诊断思路（据原文重绘）</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="60 672 1160 34" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="676" x2="1220" y2="676" stroke="#D5CCB9" stroke-width="1"/>
+    <text x="60" y="700" font-size="16" fill="#5B6A6B">儿童急性呼吸困难 · 诊疗思路</text>
+    <text x="1220" y="700" font-size="16" fill="#5B6A6B" text-anchor="end">15 / 21</text>
+  </g>
+</svg>

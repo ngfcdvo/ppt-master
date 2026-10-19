@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF9F4"/>
+
+  <g id="header" data-pptx-bounds="60 60 1160 92" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="84" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">04 / 分度与评估</text>
+    <text x="60" y="126" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">分度：轻、中、重三档决定处理级别</text>
+    <line x1="60" y1="142" x2="1220" y2="142" stroke="#D5CCB9" stroke-width="1"/>
+    <g transform="translate(1166,70) scale(1.15)" fill="none" stroke="#123A46" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M3 12h4l3 8l4 -16l3 8h4"/>
+    </g>
+  </g>
+
+  <g id="severity-table" data-pptx-bounds="60 170 980 458" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="60" y="176" width="980" height="44" fill="#6E8A8F"/>
+    <text x="84" y="206" font-size="18" font-weight="bold" fill="#FBF9F4">分度</text>
+    <text x="284" y="206" font-size="18" font-weight="bold" fill="#FBF9F4">临床表现</text>
+
+    <rect x="60" y="220" width="6" height="110" fill="#6E8A8F"/>
+    <text x="84" y="274" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#123A46">轻度</text>
+    <text x="284" y="274" font-size="20" fill="#1E2A2C">仅有呼吸频率加快，活动、哭闹或吃奶后出现轻度发绀。</text>
+    <line x1="60" y1="330" x2="1040" y2="330" stroke="#D5CCB9" stroke-width="1"/>
+
+    <rect x="60" y="330" width="6" height="150" fill="#B3402F"/>
+    <text x="84" y="404" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#B3402F">中度</text>
+    <text x="284" y="392" font-size="20" fill="#1E2A2C">呼吸明显加快，有呼吸做功增加及辅助呼吸肌参与表现<tspan x="284" dy="29">（如三凹征、鼻翼扇动、点头样呼吸），烦躁发绀，吸氧后症状可改善。</tspan></text>
+    <line x1="60" y1="480" x2="1040" y2="480" stroke="#D5CCB9" stroke-width="1"/>
+
+    <rect x="60" y="480" width="6" height="146" fill="#123A46"/>
+    <text x="84" y="554" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#123A46">重度</text>
+    <text x="284" y="542" font-size="20" fill="#1E2A2C">呼吸困难进一步加重，出现明显紫绀、呼吸节律不规则或<tspan x="284" dy="29">呼吸暂停等表现，可伴有昏迷及循环功能不全。</tspan></text>
+
+    <line x1="260" y1="176" x2="260" y2="626" stroke="#D5CCB9" stroke-width="1"/>
+  </g>
+
+  <g id="severity-arrow" data-pptx-bounds="1050 200 170 430" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="1050" y="250" font-size="18" font-weight="bold" fill="#B3402F">处理级别</text>
+    <text x="1050" y="278" font-size="18" font-weight="bold" fill="#B3402F">随之升级</text>
+
+    <line x1="1092" y1="308" x2="1092" y2="576" stroke="#B3402F" stroke-width="2"/>
+    <polygon points="1084,572 1100,572 1092,592" fill="#B3402F"/>
+
+    <text x="1106" y="316" font-size="16" fill="#5B6A6B">轻</text>
+    <text x="1106" y="580" font-size="16" fill="#5B6A6B">重</text>
+  </g>
+
+  <g id="severity-note" data-pptx-bounds="60 640 1160 30" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="662" font-size="16" fill="#5B6A6B">分度的核心不是频率数字，而是做功增加、发绀与节律 / 意识改变。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="60 672 1160 34" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="676" x2="1220" y2="676" stroke="#D5CCB9" stroke-width="1"/>
+    <text x="60" y="700" font-size="16" fill="#5B6A6B">儿童急性呼吸困难 · 诊疗思路</text>
+    <text x="1220" y="700" font-size="16" fill="#5B6A6B" text-anchor="end">13 / 21</text>
+  </g>
+</svg>

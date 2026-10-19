@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF9F4" />
+
+  <g id="header" data-pptx-bounds="60 60 1160 92" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="84" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">03 / 病因及表现</text>
+    <text x="60" y="126" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">神经精神性：节律异常 vs 主诉多、体征少</text>
+    <line x1="60" y1="142" x2="1220" y2="142" stroke="#D5CCB9" stroke-width="1" />
+    <g transform="translate(1166,70) scale(1.15)" fill="none" stroke="#123A46" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 5a3 3 0 1 0 -5.997 .125a4 4 0 0 0 -2.526 5.77c-1.519 .519 -2.683 2.258 -2.562 4.102s1.667 3.576 3.562 3.795l.01 .002a4.002 4.002 0 0 0 7.014 1.658" />
+      <path d="M12 5a3 3 0 1 1 5.997 .125a4 4 0 0 1 2.526 5.77c1.519 .519 2.683 2.258 2.562 4.102s-1.667 3.576 -3.562 3.795l-.01 .002a4.002 4.002 0 0 1 -7.014 1.658" />
+      <path d="M13 6.5v11" />
+      <path d="M10 12h4" />
+    </g>
+  </g>
+
+  <g id="neuro-organic" data-pptx-bounds="60 168 540 420" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="196" font-size="16" font-weight="bold" letter-spacing="2" fill="#6E8A8F">3.5 神经精神性呼吸困难</text>
+    <text x="60" y="240" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#123A46">中枢性（器质性）</text>
+    <line x1="60" y1="256" x2="200" y2="256" stroke="#B3402F" stroke-width="3" />
+
+    <text x="60" y="300" font-size="16" font-weight="bold" fill="#B3402F">病理</text>
+    <text font-size="20" fill="#1E2A2C" x="60" y="334">脑炎、脑出血、肿瘤等所致颅内压增高，使脑</text><text font-size="20" fill="#1E2A2C" x="60" y="363">干移位、缺血或受压，破坏呼吸节律的产生</text><text font-size="20" fill="#1E2A2C" x="60" y="392">与传导通路。</text><text x="60" y="440" font-size="16" font-weight="bold" fill="#B3402F">表现</text>
+    <text font-size="20" fill="#1E2A2C" x="60" y="474">导致呼吸节律紊乱：如潮式呼吸、抽泣样呼吸</text><text font-size="20" fill="#1E2A2C" x="60" y="503">或间停呼吸。</text></g>
+
+  <g id="neuro-functional" data-pptx-bounds="680 168 540 420" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="680" y="196" font-size="16" font-weight="bold" letter-spacing="2" fill="#6E8A8F">3.5 神经精神性呼吸困难</text>
+    <text x="680" y="240" font-family="Georgia, SimSun, serif" font-size="28" font-weight="bold" fill="#123A46">精神性（癔症、焦虑等）</text>
+    <line x1="680" y1="256" x2="820" y2="256" stroke="#6E8A8F" stroke-width="3" />
+
+    <text x="680" y="300" font-size="16" font-weight="bold" fill="#6E8A8F">体征</text>
+    <text font-size="20" fill="#1E2A2C" x="680" y="334">呼吸快而浅，但无呼吸困难的客观表现，体检肺</text><text font-size="20" fill="#1E2A2C" x="680" y="363">部无阳性体征。</text><text x="680" y="440" font-size="16" font-weight="bold" fill="#6E8A8F">症状</text>
+    <text font-size="20" fill="#1E2A2C" x="680" y="474">患儿主诉多、症状重，常因过度通气发生呼吸</text><text font-size="20" fill="#1E2A2C" x="680" y="503">性碱中毒，出现胸闷、口舌及肢体麻木、手足</text><text font-size="20" fill="#1E2A2C" x="680" y="532">搐搦等。</text></g>
+
+  <line id="neuro-column-divider" x1="640" y1="176" x2="640" y2="560" stroke="#D5CCB9" stroke-width="1" data-pptx-role="decoration" />
+
+  <g id="neuro-conclusion" data-pptx-bounds="60 590 1160 70" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="596" x2="1220" y2="596" stroke="#B3402F" stroke-width="2" />
+    <text x="60" y="640" font-size="24" font-weight="bold" fill="#B3402F">先想器质性，再谈功能性：一个看节律，一个看主诉与体征是否匹配。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="60 672 1160 34" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="676" x2="1220" y2="676" stroke="#D5CCB9" stroke-width="1" />
+    <text x="60" y="700" font-size="16" fill="#5B6A6B">儿童急性呼吸困难 · 诊疗思路</text>
+    <text x="1220" y="700" font-size="16" fill="#5B6A6B" text-anchor="end">12 / 21</text>
+  </g>
+</svg>

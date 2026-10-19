@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF9F4"/>
+
+  <g id="header" data-pptx-bounds="60 60 1160 92" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="84" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">06 / 治疗原则</text>
+    <text x="60" y="126" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">治疗原则：先救命，再治病</text>
+    <line x1="60" y1="142" x2="1220" y2="142" stroke="#D5CCB9" stroke-width="1"/>
+    <g transform="translate(1166,70) scale(1.15)" fill="none" stroke="#123A46" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M8 8v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2"/>
+      <path d="M4 8h16a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-16a2 2 0 0 1 -2 -2v-8a2 2 0 0 1 2 -2z"/>
+      <path d="M12 12v6"/>
+      <path d="M9 15h6"/>
+    </g>
+  </g>
+
+  <g id="treatment-banner" data-pptx-bounds="60 168 1160 66" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="60" y="168" width="1160" height="64" fill="#123A46"/>
+    <text x="92" y="209" font-size="28" font-weight="bold" fill="#FBF9F4">对所有呼吸困难患儿应遵循“先救命、后治病”的原则，进行严重度评估。</text>
+  </g>
+
+  <g id="treatment-timeline" data-pptx-bounds="60 256 740 380" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line id="timeline-spine" x1="90" y1="290" x2="90" y2="580" stroke="#D5CCB9" stroke-width="2"/>
+
+    <circle cx="90" cy="290" r="18" fill="#FBF9F4" stroke="#123A46" stroke-width="2"/>
+    <text x="90" y="296" font-size="16" font-weight="bold" fill="#123A46" text-anchor="middle">01</text>
+    <text x="130" y="296" font-size="20" fill="#1E2A2C">开放气道：保持呼吸道通畅。</text>
+
+    <circle cx="90" cy="356" r="18" fill="#FBF9F4" stroke="#123A46" stroke-width="2"/>
+    <text x="90" y="362" font-size="16" font-weight="bold" fill="#123A46" text-anchor="middle">02</text>
+    <text x="130" y="362" font-size="20" fill="#1E2A2C">监护：进行心电和氧饱和度监护。</text>
+
+    <circle cx="90" cy="422" r="18" fill="#FBF9F4" stroke="#123A46" stroke-width="2"/>
+    <text x="90" y="428" font-size="16" font-weight="bold" fill="#123A46" text-anchor="middle">03</text>
+    <text x="130" y="428" font-size="20" fill="#1E2A2C">建立静脉通路。</text>
+
+    <circle cx="90" cy="488" r="18" fill="#FBF9F4" stroke="#123A46" stroke-width="2"/>
+    <text x="90" y="494" font-size="16" font-weight="bold" fill="#123A46" text-anchor="middle">04</text>
+    <text x="130" y="494" font-size="20" font-weight="bold" fill="#123A46">呼吸支持（立即给予）</text>
+    <text x="130" y="524" font-size="20" fill="#1E2A2C">根据严重程度选择适当的氧疗方式——鼻导管、面罩、<tspan x="130" dy="28">经鼻高流量氧疗或无创通气，纠正低氧血症。</tspan></text>
+
+    <rect x="72" y="562" width="36" height="36" fill="#B3402F"/>
+    <text x="90" y="586" font-size="16" font-weight="bold" fill="#FBF9F4" text-anchor="middle">05</text>
+    <text x="130" y="578" font-size="20" font-weight="bold" fill="#B3402F">有创机械通气启动指征</text>
+    <text x="130" y="608" font-size="20" fill="#1E2A2C">意识改变；严重低氧血症；二氧化碳进行性升高；呼吸肌疲劳。</text>
+  </g>
+
+  <g id="ventilation-panel" data-pptx-bounds="840 264 380 300" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="840" y="268" width="380" height="292" fill="#F5F1E8"/>
+    <rect x="840" y="268" width="380" height="4" fill="#B3402F"/>
+
+    <text x="864" y="304" font-size="18" font-weight="bold" fill="#123A46">氧疗方式：按严重程度选择</text>
+    <circle cx="870" cy="334" r="3" fill="#B3402F"/>
+    <text x="886" y="340" font-size="20" fill="#1E2A2C">鼻导管</text>
+    <circle cx="870" cy="370" r="3" fill="#B3402F"/>
+    <text x="886" y="376" font-size="20" fill="#1E2A2C">面罩</text>
+    <circle cx="870" cy="406" r="3" fill="#B3402F"/>
+    <text x="886" y="412" font-size="20" fill="#1E2A2C">经鼻高流量氧疗</text>
+    <circle cx="870" cy="442" r="3" fill="#B3402F"/>
+    <text x="886" y="448" font-size="20" fill="#1E2A2C">无创通气</text>
+
+    <line x1="864" y1="474" x2="1196" y2="474" stroke="#D5CCB9" stroke-width="1"/>
+    <text x="864" y="504" font-size="16" fill="#5B6A6B">应及时启动有创机械通气，避免持续的低氧<tspan x="864" dy="22">血症或高碳酸血症，导致昏迷甚至呼吸心</tspan><tspan x="864" dy="22">跳骤停。</tspan></text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="60 660 1160 46" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="676" x2="1220" y2="676" stroke="#D5CCB9" stroke-width="1"/>
+    <text x="60" y="700" font-size="16" fill="#5B6A6B">儿童急性呼吸困难 · 诊疗思路</text>
+    <text x="1220" y="700" font-size="16" fill="#5B6A6B" text-anchor="end">18 / 21</text>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF9F4"/>
+
+  <g id="header" data-pptx-bounds="60 60 1160 92" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="84" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">01 / 分类</text>
+    <text x="60" y="126" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">三种分类轴，决定问诊方向</text>
+    <line x1="60" y1="142" x2="1220" y2="142" stroke="#D5CCB9" stroke-width="1"/>
+  </g>
+
+  <g id="axis-course" data-pptx-bounds="60 164 340 336" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="190" font-family="Georgia, SimSun, serif" font-size="28" fill="#6E8A8F">01</text>
+    <text x="60" y="224" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">按病程</text>
+    <line x1="60" y1="238" x2="380" y2="238" stroke="#D5CCB9" stroke-width="1"/>
+    <text x="60" y="284" font-size="20" fill="#1E2A2C">急性呼吸困难（≤3 周）</text>
+    <text x="60" y="328" font-size="20" fill="#1E2A2C">慢性呼吸困难（>3 周）</text>
+  </g>
+
+  <g id="axis-cause" data-pptx-bounds="445 164 340 356" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="445" y="190" font-family="Georgia, SimSun, serif" font-size="28" fill="#6E8A8F">02</text>
+    <text x="445" y="224" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">按病因</text>
+    <line x1="445" y1="238" x2="765" y2="238" stroke="#D5CCB9" stroke-width="1"/>
+    <text x="445" y="284" font-size="20" fill="#1E2A2C">肺源性呼吸困难</text>
+    <text x="445" y="328" font-size="20" fill="#1E2A2C">心源性呼吸困难</text>
+    <text x="445" y="372" font-size="20" fill="#1E2A2C">中毒性呼吸困难</text>
+    <text x="445" y="416" font-size="20" fill="#1E2A2C">血源性呼吸困难</text>
+    <text x="445" y="460" font-size="20" fill="#1E2A2C">神经精神性呼吸困难</text>
+  </g>
+
+  <g id="axis-phase" data-pptx-bounds="830 164 350 306" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="830" y="190" font-family="Georgia, SimSun, serif" font-size="28" fill="#6E8A8F">03</text>
+    <text x="830" y="224" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">按发生时相</text>
+    <line x1="830" y1="238" x2="1180" y2="238" stroke="#D5CCB9" stroke-width="1"/>
+    <text x="830" y="284" font-size="20" fill="#1E2A2C">吸气性呼吸困难</text>
+    <text x="830" y="328" font-size="20" fill="#1E2A2C">呼气性呼吸困难</text>
+    <text x="830" y="372" font-size="20" fill="#1E2A2C">混合性呼吸困难</text>
+  </g>
+
+  <line id="axis-divider-1" x1="412" y1="176" x2="412" y2="486" stroke="#D5CCB9" stroke-width="1" data-pptx-role="decoration"/>
+  <line id="axis-divider-2" x1="797" y1="176" x2="797" y2="486" stroke="#D5CCB9" stroke-width="1" data-pptx-role="decoration"/>
+
+  <g id="classification-note" data-pptx-bounds="60 530 1160 110" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="60" y="530" width="1160" height="100" fill="#F0EBE0"/>
+    <rect x="60" y="530" width="6" height="100" fill="#B3402F"/>
+    <g transform="translate(88,556) scale(1.05)" fill="none" stroke="#B3402F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 9v4"/>
+      <path d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0"/>
+      <path d="M12 16h.01"/>
+    </g>
+    <text x="130" y="570" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">临床判断</text>
+    <text x="130" y="608" font-size="20" fill="#1E2A2C">小儿以急性呼吸困难多见，进展快，可迅速危及生命，需紧急明确病因并处理。</text>
+  </g>
+
+  <g id="footer" data-pptx-bounds="60 672 1160 34" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="676" x2="1220" y2="676" stroke="#D5CCB9" stroke-width="1"/>
+    <text x="60" y="700" font-size="16" fill="#5B6A6B">儿童急性呼吸困难 · 诊疗思路</text>
+    <text x="1220" y="700" font-size="16" fill="#5B6A6B" text-anchor="end">06 / 21</text>
+  </g>
+</svg>

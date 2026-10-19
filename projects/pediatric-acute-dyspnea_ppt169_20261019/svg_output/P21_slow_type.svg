@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF9F4"/>
+
+  <g id="header" data-pptx-bounds="60 60 1160 92" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="84" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">07 / 呼吸障碍</text>
+    <text x="60" y="126" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">缓慢型呼吸障碍：最容易被漏掉的一类</text>
+    <line x1="60" y1="142" x2="1220" y2="142" stroke="#D5CCB9" stroke-width="1"/>
+  </g>
+
+  <g id="slow-detail" data-pptx-bounds="60 176 740 300" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="194" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">特征与表现</text>
+    <text x="60" y="228" font-size="20" fill="#1E2A2C">以呼吸频率减慢、通气不足为特征。</text>
+    <text x="60" y="260" font-size="20" fill="#1E2A2C">患儿常表现为安静、少动、咳声低微、吸吮无力等。</text>
+
+    <text x="60" y="308" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">病因</text>
+    <text x="60" y="340" font-size="20" fill="#1E2A2C">主要是神经肌肉疾病、电解质紊乱以及药物因素<tspan x="60" dy="28">（如麻醉手术中阿片类或镇静药物的应用）。</tspan></text>
+
+    <text x="60" y="416" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">趋势</text>
+    <text x="60" y="448" font-size="20" fill="#1E2A2C">随着临床上操作和新技术应用的增多，缓慢型<tspan x="60" dy="28">呼吸障碍可能会更加常见。</tspan></text>
+  </g>
+
+  <g id="slow-meaning" data-pptx-bounds="840 176 380 240" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="840" y="180" width="380" height="232" fill="#123A46"/>
+    <text x="868" y="216" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">意义</text>
+    <text x="868" y="254" font-size="24" fill="#FBF9F4">提出这个概念，是提醒广大儿科<tspan x="868" dy="36">医生加强对缓慢型呼吸障碍的</tspan><tspan x="868" dy="36">认识和重视，避免遗漏而导致</tspan><tspan x="868" dy="36">原本不难挽回的严重后果。</tspan></text>
+  </g>
+
+  <g id="takeaway-strip" data-pptx-bounds="60 500 1160 130" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="60" y="500" width="1160" height="126" fill="#F5F1E8"/>
+    <text x="84" y="530" font-size="16" font-weight="bold" fill="#6E8A8F">带回床旁的三句话</text>
+
+    <text x="84" y="572" font-size="18" font-weight="bold" fill="#123A46">① 先看危重</text>
+    <text x="84" y="604" font-size="20" fill="#1E2A2C">ABCDE 与轻 / 中 / 重分度</text>
+
+    <text x="444" y="572" font-size="18" font-weight="bold" fill="#123A46">② 再定时相</text>
+    <text x="444" y="604" font-size="20" fill="#1E2A2C">吸气性 / 呼气性 / 混合性</text>
+
+    <text x="804" y="572" font-size="18" font-weight="bold" fill="#B3402F">③ 别漏慢型</text>
+    <text x="804" y="604" font-size="20" fill="#1E2A2C">浅慢、节律不整、呼吸暂停</text>
+
+    <line x1="420" y1="516" x2="420" y2="610" stroke="#D5CCB9" stroke-width="1"/>
+    <line x1="780" y1="516" x2="780" y2="610" stroke="#D5CCB9" stroke-width="1"/>
+  </g>
+
+  <g id="footer" data-pptx-bounds="60 660 1160 46" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="676" x2="1220" y2="676" stroke="#D5CCB9" stroke-width="1"/>
+    <text x="60" y="700" font-size="16" fill="#5B6A6B">儿童急性呼吸困难 · 诊疗思路</text>
+    <text x="1220" y="700" font-size="16" fill="#5B6A6B" text-anchor="end">21 / 21</text>
+  </g>
+</svg>

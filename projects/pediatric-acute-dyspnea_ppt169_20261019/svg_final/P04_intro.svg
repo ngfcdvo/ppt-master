@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF9F4" />
+
+  <g id="header" data-pptx-bounds="60 60 1160 92" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="84" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">01 / 引言</text>
+    <text x="60" y="126" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">为什么必须建立规范的诊疗思路</text>
+    <line x1="60" y1="142" x2="1220" y2="142" stroke="#D5CCB9" stroke-width="1" />
+  </g>
+
+  <g id="intro-facts" data-pptx-bounds="60 184 700 240" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="60" y="193" width="4" height="24" fill="#123A46" />
+    <text x="84" y="212" font-size="20" fill="#1E2A2C">呼吸困难（dyspnea）是儿童急诊最常见的就诊原因之一。</text>
+
+    <rect x="60" y="245" width="4" height="24" fill="#123A46" />
+    <text x="84" y="264" font-size="20" fill="#1E2A2C">儿童尤其是婴幼儿，呼吸道管径细小、气道阻力高。</text>
+
+    <rect x="60" y="297" width="4" height="24" fill="#123A46" />
+    <text x="84" y="316" font-size="20" fill="#1E2A2C">呼吸功能储备低，而氧代谢需求高。</text>
+
+    <rect x="60" y="349" width="4" height="58" fill="#B3402F" />
+    <text font-size="20" fill="#1E2A2C" x="84" y="368">各种肺内外疾病易导致儿童呼吸困难，甚至发展为呼吸</text><text font-size="20" fill="#1E2A2C" x="84" y="402">衰竭、心跳骤停等严重后果。</text></g>
+
+  <g id="intro-chain" data-pptx-bounds="830 168 300 390" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="830" y="188" font-size="16" font-weight="bold" letter-spacing="2" fill="#6E8A8F">可能的进展路径</text>
+    <rect x="830" y="208" width="300" height="62" fill="#F5F1E8" stroke="#D5CCB9" stroke-width="1" />
+    <text x="980" y="248" font-size="20" font-weight="bold" fill="#123A46" text-anchor="middle">呼吸困难</text>
+    <polygon points="974,278 986,278 980,288" fill="#123A46" />
+    <rect x="830" y="296" width="300" height="62" fill="#F5F1E8" stroke="#D5CCB9" stroke-width="1" />
+    <text x="980" y="336" font-size="20" font-weight="bold" fill="#123A46" text-anchor="middle">呼吸衰竭</text>
+    <polygon points="974,366 986,366 980,376" fill="#B3402F" />
+    <rect x="830" y="384" width="300" height="62" fill="#123A46" />
+    <text x="980" y="424" font-size="20" font-weight="bold" fill="#FBF9F4" text-anchor="middle">心跳骤停</text>
+    <text x="830" y="486" font-size="16" fill="#5B6A6B">儿童代偿窗口短，进展可以很快</text>
+  </g>
+
+  <g id="intro-conclusion" data-pptx-bounds="60 540 1160 124" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <rect x="60" y="540" width="1160" height="124" fill="#123A46" />
+    <text font-size="24" fill="#FBF9F4" x="92" y="592">因此，建立系统、规范的呼吸困难诊疗思路，对提高呼吸</text><text font-size="24" fill="#FBF9F4" x="92" y="628">困难患儿的救治成功率、改善患儿预后至关重要。</text></g>
+
+  <g id="footer" data-pptx-bounds="60 672 1160 34" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="676" x2="1220" y2="676" stroke="#D5CCB9" stroke-width="1" />
+    <text x="60" y="700" font-size="16" fill="#5B6A6B">儿童急性呼吸困难 · 诊疗思路</text>
+    <text x="1220" y="700" font-size="16" fill="#5B6A6B" text-anchor="end">04 / 21</text>
+  </g>
+</svg>

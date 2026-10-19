@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF9F4" />
+
+  <g id="header" data-pptx-bounds="60 60 1160 92" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="84" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">03 / 病因及表现</text>
+    <text x="60" y="126" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">中毒性与血源性：肺部常“查不出问题”</text>
+    <line x1="60" y1="142" x2="1220" y2="142" stroke="#D5CCB9" stroke-width="1" />
+  </g>
+
+  <g id="toxic" data-pptx-bounds="60 164 540 480" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <g transform="translate(60,170) scale(1.0)" fill="none" stroke="#B3402F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M9 3l6 0" />
+      <path d="M10 9l4 0" />
+      <path d="M10 3v6l-4 11a.7 .7 0 0 0 .5 1h11a.7 .7 0 0 0 .5 -1l-4 -11v-6" />
+    </g>
+    <text x="96" y="192" font-size="20" font-weight="bold" fill="#123A46">中毒性呼吸困难</text>
+
+    <text x="60" y="236" font-size="16" font-weight="bold" letter-spacing="2" fill="#6E8A8F">机制</text>
+    <text font-size="20" fill="#1E2A2C" x="60" y="270">各种代谢性疾病引起的代谢性酸中毒、糖尿病酮症</text><text font-size="20" fill="#1E2A2C" x="60" y="298">酸中毒、休克等，均可使血氢离子浓度升高、pH</text><text font-size="20" fill="#1E2A2C" x="60" y="326">值降低，刺激外周化学感受器或直接兴奋呼吸中枢</text><text font-size="20" fill="#1E2A2C" x="60" y="354">所致。</text><text x="60" y="398" font-size="16" font-weight="bold" letter-spacing="2" fill="#6E8A8F">典型表现</text>
+    <text font-size="20" fill="#1E2A2C" x="60" y="432">深大、急促、规则的呼吸（Kussmaul 呼吸），</text><text font-size="20" fill="#1E2A2C" x="60" y="460">肺部常无阳性体征。</text><rect x="60" y="480" width="4" height="152" fill="#6E8A8F" />
+    <text x="80" y="500" font-size="18" font-weight="bold" fill="#123A46">中枢抑制药物中毒</text>
+    <text x="80" y="530" font-size="20" fill="#1E2A2C">呼吸缓慢、变浅，伴节律异常。</text>
+    <text x="80" y="566" font-size="18" font-weight="bold" fill="#123A46">有机磷中毒</text>
+    <text font-size="20" fill="#1E2A2C" x="80" y="596">呼吸道大量泡沫样分泌物，兼有呼吸肌无力和</text><text font-size="20" fill="#1E2A2C" x="80" y="624">中枢驱动衰竭的特点。</text></g>
+
+  <line id="toxic-column-divider" x1="620" y1="176" x2="620" y2="640" stroke="#D5CCB9" stroke-width="1" data-pptx-role="decoration" />
+
+  <g id="blood" data-pptx-bounds="660 164 560 480" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <g transform="translate(660,170) scale(1.0)" fill="none" stroke="#123A46" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M7.502 19.423c2.602 2.105 6.395 2.105 8.996 0c2.602 -2.105 3.262 -5.708 1.566 -8.546l-4.89 -7.26c-.42 -.625 -1.287 -.803 -1.936 -.397a1.376 1.376 0 0 0 -.41 .397l-4.893 7.26c-1.695 2.838 -1.035 6.441 1.567 8.546" />
+    </g>
+    <text x="696" y="192" font-size="20" font-weight="bold" fill="#123A46">血源性呼吸困难</text>
+
+    <text x="660" y="236" font-size="16" font-weight="bold" letter-spacing="2" fill="#6E8A8F">本质</text>
+    <text font-size="20" fill="#1E2A2C" x="660" y="270">血红蛋白的量和质异常，如严重贫血、一氧化碳中</text><text font-size="20" fill="#1E2A2C" x="660" y="298">毒、氰化物中毒、摄入亚硝酸盐过量等。</text><text x="660" y="354" font-size="16" font-weight="bold" letter-spacing="2" fill="#6E8A8F">机制</text>
+    <text font-size="20" fill="#1E2A2C" x="660" y="388">血液携氧能力下降或氧的运输过程受阻，导致组织</text><text font-size="20" fill="#1E2A2C" x="660" y="416">细胞缺氧，兴奋呼吸中枢。</text><text x="660" y="472" font-size="16" font-weight="bold" letter-spacing="2" fill="#6E8A8F">特点</text>
+    <text font-size="20" fill="#1E2A2C" x="660" y="506">呼吸浅而快、心率增快，呼吸心率比例正常；常</text><text font-size="20" fill="#1E2A2C" x="660" y="534">无呼吸费力及肺部阳性体征，肺部影像无异常；</text><text font-size="20" fill="#1E2A2C" x="660" y="562">伴有面色苍白或紫绀等血液病体征。</text></g>
+
+  <g id="footer" data-pptx-bounds="60 672 1160 34" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="676" x2="1220" y2="676" stroke="#D5CCB9" stroke-width="1" />
+    <text x="60" y="700" font-size="16" fill="#5B6A6B">儿童急性呼吸困难 · 诊疗思路</text>
+    <text x="1220" y="700" font-size="16" fill="#5B6A6B" text-anchor="end">11 / 21</text>
+  </g>
+</svg>

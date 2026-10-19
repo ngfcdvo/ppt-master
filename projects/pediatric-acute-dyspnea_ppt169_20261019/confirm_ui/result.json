@@ -1,0 +1,60 @@
+{
+  "canvas": "ppt169",
+  "audience": "儿科急诊与病房医师、基层儿科医生、规培及进修医师；已具备基本儿科查体与急救技能，需要在短时间内把零散的呼吸道症状判断整合成可执行的诊疗路径",
+  "communication_intent": "先讲清“为什么必须规范化”，再按定义与分类、机制、病因与表现、分度与评估、四步病因诊断、治疗原则的顺序，系统讲解儿童急性呼吸困难的完整诊疗思路；同时提出“呼吸障碍（快速型/缓慢型）”这一概念，纠正只把呼吸困难等同于呼吸急促的临床惯性",
+  "audience_outcome": "听众能在床旁按 ABCDE 完成初步评估与分度，用四步法把患儿快速定位到上气道梗阻、喘息性疾病、混合性呼吸困难或缓慢型呼吸障碍，并能按“先救命、后治病”的原则启动氧疗、无创或有创通气及对应病因治疗",
+  "core_message": "儿童急性呼吸困难进展快、代偿差：先以客观体征和 ABCDE 判断危重程度并“先救命”，再用四步法定位病因；尤其不能漏掉表现为“慢、浅、弱”的缓慢型呼吸障碍",
+  "delivery_context": "科室业务学习 / 临床教学讲课，主讲人现场讲授约 30–40 分钟，可配合病例提问；会后文件发给听众自行查阅",
+  "artifact_afterlife": "作为科室教学资料与临床查阅手册留存，也可用于规培带教和急诊值班快速回顾",
+  "content_divergence": "严格贴着文档来，且文档内容都保存",
+  "delivery_purpose": "text",
+  "page_count": "21",
+  "mode": "instructional",
+  "visual_style": "editorial",
+  "color": {
+    "name": "青墨纸面",
+    "palette": {
+      "background": "#FBF9F4",
+      "secondary_bg": "#F0EBE0",
+      "primary": "#123A46",
+      "accent": "#B3402F",
+      "secondary_accent": "#6E8A8F",
+      "body_text": "#1E2A2C"
+    }
+  },
+  "icons": "tabler-outline",
+  "typography": {
+    "name": "衬线标题＋黑体正文",
+    "heading": {
+      "cjk": "SimSun",
+      "css": "Georgia, 'Times New Roman', serif",
+      "latin": "Georgia",
+      "sample_cjk": "",
+      "sample_latin": ""
+    },
+    "body": {
+      "cjk": "Microsoft YaHei",
+      "css": "'Microsoft YaHei', 'Segoe UI', sans-serif",
+      "latin": "Segoe UI",
+      "sample_cjk": "",
+      "sample_latin": ""
+    },
+    "body_size": 20,
+    "sizes": {
+      "annotation": 16,
+      "subtitle": 28,
+      "title": 36
+    },
+    "body_size_unit": "px"
+  },
+  "image_usage": [
+    "none"
+  ],
+  "image_notes": "本文是机制与流程型医学教学材料，不使用任何照片或插画：呼吸反射弧、三类呼吸困难、ABCDE、四步病因诊断与治疗流程全部用原生 SVG 示意图、箭头与表格表达，避免引入与原文无关的视觉信息。",
+  "formula_policy": "text-only",
+  "generation_mode": "continuous",
+  "refine_spec": false,
+  "stage": "final",
+  "status": "confirmed",
+  "confirmed_at": "2026-10-19T20:21:57"
+}

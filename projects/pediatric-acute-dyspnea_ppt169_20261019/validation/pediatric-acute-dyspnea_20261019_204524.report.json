@@ -1,0 +1,146 @@
+{
+  "schema": "ppt-master.pptx-postflight-report.v1",
+  "status": "passed-with-warnings",
+  "output": {
+    "path": "D:\\github\\ppt-master-1\\projects\\pediatric-acute-dyspnea_ppt169_20261019\\exports\\pediatric-acute-dyspnea_20261019_204524.pptx",
+    "bytes": 115249
+  },
+  "source": {
+    "svg_slide_count": 21,
+    "layout_definition_count": 0,
+    "fingerprint": {
+      "algorithm": "sha256",
+      "digest": "02efe63ec77e512fcdb5bb31aef686ef9b5c23b38ac603d52f478d3814e0a4e4",
+      "file_count": 21,
+      "files": [
+        {
+          "file": "P01_cover.svg",
+          "sha256": "af27b838621565bb9d387777c92b7c1a7ab70b2b57899c32abe6faed411030d5"
+        },
+        {
+          "file": "P02_abstract.svg",
+          "sha256": "fde4d8d13ed90affe8598f5cff552a8d231081f302d945c18fb98ca1568be328"
+        },
+        {
+          "file": "P03_toc.svg",
+          "sha256": "c0df7f4765c5b3695f821db7186c9d4729f354fef8365aae9420314bc476ac4b"
+        },
+        {
+          "file": "P04_intro.svg",
+          "sha256": "4610fc140094c47a60b8c6cb022f76239690f63e7f2443e302255b52b5990b84"
+        },
+        {
+          "file": "P05_definition.svg",
+          "sha256": "3f053392df1e97b81528237665c67b41712630733a9b21381d50ef18c3c3de56"
+        },
+        {
+          "file": "P06_classification.svg",
+          "sha256": "0b82cc5b302ef3f380636caeb02d52c0220d2721e792b13edb540c44e9db9eab"
+        },
+        {
+          "file": "P07_reflex_arc.svg",
+          "sha256": "81a00e22ce0e75457a254cd0acd0f12783562b9435c5f4a49714c1408f8ac830"
+        },
+        {
+          "file": "P08_mechanisms.svg",
+          "sha256": "1847e4b6f1027ae6b2468cb442cab68b46bac52bd5f63620bd05c25cf29cc723"
+        },
+        {
+          "file": "P09_pulmonary.svg",
+          "sha256": "53763d42ae6e22269cb33bae475eb5e28d3ac6e88f7311057e63b1a7b58725a6"
+        },
+        {
+          "file": "P10_cardiac.svg",
+          "sha256": "6eee37e060f06e64bb3dc240fb6ba4bad093757f36fc2b5d1fc6e82514951883"
+        },
+        {
+          "file": "P11_toxic_blood.svg",
+          "sha256": "9b26259a12b403aa0dbd0df3c82d9a5e0e7149ab66ba3e2b9d741a5f336ec6b5"
+        },
+        {
+          "file": "P12_neuropsych.svg",
+          "sha256": "d71aae4629f39a268c3b118acd2d2afc9479a746788b93b6917d52ae6c1431f5"
+        },
+        {
+          "file": "P13_severity.svg",
+          "sha256": "82ff1099c99912e55352548fb0d641a903c72067b7d1fec4347a71cdb05a2bfa"
+        },
+        {
+          "file": "P14_abcde.svg",
+          "sha256": "789eef0c0d42426d1632f5397f04972e8904d360b2708992e5023ce5b5e9c5c1"
+        },
+        {
+          "file": "P15_four_steps.svg",
+          "sha256": "dd8508c4c2225d829e0aa8284497d901a5320b56c54e79b0d237c8bbd558c40d"
+        },
+        {
+          "file": "P16_step12.svg",
+          "sha256": "0f2182f4f8050988edb4c6ce7ead27d47c5f1e902aaf5f0eb36c9b77924c16ab"
+        },
+        {
+          "file": "P17_step34.svg",
+          "sha256": "083376ecefeda3a214d13366e9a14e04433ef45e4a9a2376a88efc774a68a0c3"
+        },
+        {
+          "file": "P18_treatment.svg",
+          "sha256": "5053569ef9f88ddba1d4c9ea3ccfeac9d949ffaa9deff91704c0807e3791c179"
+        },
+        {
+          "file": "P19_etiology_treatment.svg",
+          "sha256": "35ee1933f2e9d457c77d6844634279d038c80beb159a420390a19417f536e758"
+        },
+        {
+          "file": "P20_breathing_disorder.svg",
+          "sha256": "149872c8116eab2bbde8702f48bea9b4d2593737515cc3bd7c97b592a9a70bfd"
+        },
+        {
+          "file": "P21_slow_type.svg",
+          "sha256": "c5de3337c4dcb144b7a32a1c53ddec2822ac0dacb9fd6a42c9dde8b2d3812135"
+        }
+      ]
+    }
+  },
+  "package": {
+    "zip_integrity": "passed",
+    "corrupt_member": null,
+    "slides": 21,
+    "notes": 21,
+    "masters": 1,
+    "layouts": 1
+  },
+  "checks": {
+    "zip_integrity": "passed",
+    "slide_count": "passed",
+    "internal_relationships": "enforced-at-build",
+    "structured_package": "not-applicable",
+    "transitions": "enforced-at-build",
+    "animations": "enforced-at-build",
+    "quality_gate": "not-provided",
+    "quality_warnings": "passed",
+    "template_tokens": "passed",
+    "external_images": "passed",
+    "font_portability": "passed"
+  },
+  "quality": {
+    "status": "not-provided",
+    "path": "d:\\github\\ppt-master-1\\projects\\pediatric-acute-dyspnea_ppt169_20261019\\validation\\svg_quality_report.json"
+  },
+  "resources": {
+    "unresolved_template_tokens": [],
+    "fonts": {
+      "stacks": [
+        "Georgia, SimSun, serif",
+        "Segoe UI, Microsoft YaHei, sans-serif"
+      ],
+      "generic_only_stacks": []
+    },
+    "images": {
+      "data_uri": 0,
+      "local": 0,
+      "external": 0,
+      "external_references": []
+    }
+  },
+  "backup_path": "D:\\github\\ppt-master-1\\projects\\pediatric-acute-dyspnea_ppt169_20261019\\backup\\20261019_204524\\svg_output",
+  "conversion_trace_path": null
+}

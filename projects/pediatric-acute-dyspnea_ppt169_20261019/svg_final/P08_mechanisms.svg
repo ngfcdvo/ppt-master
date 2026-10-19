@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FBF9F4" />
+
+  <g id="header" data-pptx-bounds="60 60 1160 92" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="84" font-size="16" font-weight="bold" letter-spacing="2" fill="#B3402F">02 / 机制</text>
+    <text x="60" y="126" font-family="Georgia, SimSun, serif" font-size="36" font-weight="bold" fill="#123A46">四个环节出问题，都会表现为呼吸困难</text>
+    <line x1="60" y1="142" x2="1220" y2="142" stroke="#D5CCB9" stroke-width="1" />
+  </g>
+
+  <g id="mechanism-grid" data-pptx-bounds="60 160 1160 500" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="60" y="176" font-size="20" fill="#1E2A2C">一切导致感受器内环境变化、气道不畅、中枢及神经肌肉异常的因素均会导致呼吸困难。</text>
+
+    <line x1="620" y1="200" x2="620" y2="660" stroke="#D5CCB9" stroke-width="1" />
+    <line x1="60" y1="444" x2="1220" y2="444" stroke="#D5CCB9" stroke-width="1" />
+
+    <text x="60" y="228" font-size="16" font-weight="bold" fill="#B3402F">01</text>
+    <text x="96" y="228" font-size="18" font-weight="bold" fill="#123A46">缺氧及高碳酸血症</text>
+    <text font-size="20" fill="#1E2A2C" x="60" y="262">各种肺内、肺外疾病引起缺氧或高碳酸血症时，</text><text font-size="20" fill="#1E2A2C" x="60" y="290">刺激颈动脉体、主动脉弓或中枢化学感受器，反射</text><text font-size="20" fill="#1E2A2C" x="60" y="318">性兴奋呼吸中枢，使呼吸加深加快。CO₂ 升高能</text><text font-size="20" fill="#1E2A2C" x="60" y="346">迅速通过血脑屏障，在脑脊液中生成 H⁺，刺激</text><text font-size="20" fill="#1E2A2C" x="60" y="374">中枢感受器，是呼吸调节最重要的化学因素。另</text><text font-size="20" fill="#1E2A2C" x="60" y="402">外，肺淤血、炎症、间质水肿和间质性肺疾病等</text><text font-size="20" fill="#1E2A2C" x="60" y="430">也会刺激肺牵张感受器，诱发呼吸急促和呼吸困难。</text><text x="660" y="228" font-size="16" font-weight="bold" fill="#B3402F">02</text>
+    <text x="696" y="228" font-size="18" font-weight="bold" fill="#123A46">呼吸运动阻力增加</text>
+    <text font-size="20" fill="#1E2A2C" x="660" y="262">上呼吸道梗阻、下气道平滑肌痉挛、胸膜疾病（如</text><text font-size="20" fill="#1E2A2C" x="660" y="290">气胸、大量胸腔积液）等导致气道阻力增加。胸壁</text><text font-size="20" fill="#1E2A2C" x="660" y="318">呼吸肌内的本体感受器激活，传导到脑干及皮质感</text><text font-size="20" fill="#1E2A2C" x="660" y="346">觉中枢的信号增多，反射性引起呼吸肌做功增强，</text><text font-size="20" fill="#1E2A2C" x="660" y="374">出现呼吸困难的主观和客观表现。</text><text x="60" y="480" font-size="16" font-weight="bold" fill="#B3402F">03</text>
+    <text x="96" y="480" font-size="18" font-weight="bold" fill="#123A46">呼吸肌受损</text>
+    <text font-size="20" fill="#1E2A2C" x="60" y="514">呼吸肌力减退、麻痹，如肌炎、吉兰-巴雷综合征、</text><text font-size="20" fill="#1E2A2C" x="60" y="542">重症肌无力。中枢对呼吸肌肉的传出冲动增加，变</text><text font-size="20" fill="#1E2A2C" x="60" y="570">为通气异常感受信号，经肺部迷走神经受体及呼吸</text><text font-size="20" fill="#1E2A2C" x="60" y="598">肌的机械感受器传入大脑感觉运动皮层，产生呼吸</text><text font-size="20" fill="#1E2A2C" x="60" y="626">困难感受。</text><text x="660" y="480" font-size="16" font-weight="bold" fill="#B3402F">04</text>
+    <text x="696" y="480" font-size="18" font-weight="bold" fill="#123A46">呼吸驱动异常</text>
+    <text font-size="20" fill="#1E2A2C" x="660" y="514">中枢神经系统疾病（脑炎、颅内高压）、麻醉镇静</text><text font-size="20" fill="#1E2A2C" x="660" y="542">剂等，可直接损害或抑制呼吸中枢，导致呼吸节律异常。</text></g>
+
+  <g id="footer" data-pptx-bounds="60 672 1160 34" font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <line x1="60" y1="676" x2="1220" y2="676" stroke="#D5CCB9" stroke-width="1" />
+    <text x="60" y="700" font-size="16" fill="#5B6A6B">儿童急性呼吸困难 · 诊疗思路</text>
+    <text x="1220" y="700" font-size="16" fill="#5B6A6B" text-anchor="end">08 / 21</text>
+  </g>
+</svg>
