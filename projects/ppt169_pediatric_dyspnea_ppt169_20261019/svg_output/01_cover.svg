@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="cover">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="cover-title" data-pptx-bounds="40 60 660 360">
+    <rect x="40" y="76" width="28" height="28" fill="#D97706"/>
+    <text x="82" y="98" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" font-weight="bold" letter-spacing="2" fill="#2A7F9E">PEDIATRIC ACUTE DYSPNEA</text>
+    <text x="40" y="204" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="64" font-weight="bold" fill="#0F3D5C">儿童急性呼吸困难<tspan x="40" dy="88">先救命，再定位</tspan></text>
+    <text x="40" y="352" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="30" fill="#2A7F9E">从 ABCDE 分层到四步病因定位</text>
+    <text x="40" y="398" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.65">30 分钟 · 科室业务学习 · 病例讨论</text>
+  </g>
+
+  <g id="cover-wave" data-pptx-bounds="40 340 1200 220">
+    <text x="40" y="420" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="28" font-weight="bold" fill="#2A7F9E">快</text>
+    <text x="1180" y="424" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="84" font-weight="bold" text-anchor="end" fill="#D97706">慢</text>
+    <path d="M 40 500 c 10 -60 30 -60 40 0 c 10 60 30 60 40 0 c 10 -60 30 -60 40 0 c 10 60 30 60 40 0 c 10 -60 30 -60 40 0 c 10 60 30 60 40 0 c 10 -60 30 -60 40 0 c 10 60 30 60 40 0 c 10 -60 30 -60 40 0 c 10 60 30 60 40 0 c 10 -60 30 -60 40 0 c 10 60 30 60 40 0 c 10 -60 30 -60 40 0 c 10 60 30 60 40 0" fill="none" stroke="#0F3D5C" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 600 500 c 20 -55 60 -55 80 0 c 35 -24 105 -24 140 0 c 35 24 105 24 140 0 c 35 -24 105 -24 140 0 c 35 24 105 24 140 0" fill="none" stroke="#D97706" stroke-width="3" stroke-linecap="round"/>
+    <line x1="600" y1="440" x2="600" y2="556" stroke="#1F2933" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="608" y="556" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="14" fill="#1F2933" fill-opacity="0.55">容易被漏掉的一型</text>
+  </g>
+
+  <g id="cover-source" data-pptx-bounds="40 596 1000 116">
+    <line x1="40" y1="600" x2="1240" y2="600" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15"/>
+    <text x="40" y="636" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933" fill-opacity="0.72">朱昱瑶，付红敏. 儿童急性呼吸困难的诊疗思路. 中国实用儿科杂志. 2026;41(9):729-732.</text>
+    <text x="40" y="660" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="15" fill="#1F2933" fill-opacity="0.55">DOI 10.19538/j.ek2026090604</text>
+    <text x="40" y="694" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#0F3D5C">昆明医科大学附属儿童医院 呼吸与危重症医学科</text>
+  </g>
+</svg>

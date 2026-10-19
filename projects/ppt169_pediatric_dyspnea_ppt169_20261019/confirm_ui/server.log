@@ -1,0 +1,79 @@
+[16:06:30] [INFO] confirm_ui: running at http://127.0.0.1:5050
+[16:06:30] [INFO] confirm_ui: project: D:\github\ppt-master-1\projects\ppt169_pediatric_dyspnea_ppt169_20261019
+[16:06:30] [INFO] confirm_ui: idle timeout: 900s (0 = disabled)
+ * Serving Flask app 'server'
+ * Debug mode: off
+[16:06:30] [INFO] confirm_ui: WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5050
+[16:06:30] [INFO] confirm_ui: Press CTRL+C to quit
+[16:06:30] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:06:30] "GET /api/health HTTP/1.1" 200 -
+[16:06:31] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:06:31] "GET / HTTP/1.1" 200 -
+[16:06:31] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:06:31] "GET /static/style.css HTTP/1.1" 200 -
+[16:06:31] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:06:31] "GET /static/app.js HTTP/1.1" 200 -
+[16:06:32] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:06:32] "GET /api/recommendations HTTP/1.1" 200 -
+[16:06:32] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:06:32] "GET /api/catalogs HTTP/1.1" 200 -
+[16:06:32] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:06:32] "GET /favicon.ico HTTP/1.1" 404 -
+[16:06:32] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:06:32] "GET /api/icon-previews HTTP/1.1" 200 -
+[16:07:14] [INFO] confirm_ui: stage1 confirmation written to D:\github\ppt-master-1\projects\ppt169_pediatric_dyspnea_ppt169_20261019\confirm_ui\result.json
+[16:07:14] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:14] "POST /api/confirm HTTP/1.1" 200 -
+[16:07:14] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:14] "GET /api/session HTTP/1.1" 200 -
+[16:07:15] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:15] "GET /api/session HTTP/1.1" 200 -
+[16:07:16] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:16] "GET /api/session HTTP/1.1" 200 -
+[16:07:18] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:18] "GET /api/session HTTP/1.1" 200 -
+[16:07:19] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:19] "GET /api/session HTTP/1.1" 200 -
+[16:07:20] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:20] "GET /api/session HTTP/1.1" 200 -
+[16:07:21] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:21] "GET /api/session HTTP/1.1" 200 -
+[16:07:22] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:22] "GET /api/session HTTP/1.1" 200 -
+[16:07:24] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:24] "GET /api/session HTTP/1.1" 200 -
+[16:07:25] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:25] "GET /api/session HTTP/1.1" 200 -
+[16:07:26] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:26] "GET /api/session HTTP/1.1" 200 -
+[16:07:27] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:27] "GET /api/session HTTP/1.1" 200 -
+[16:07:29] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:29] "GET /api/session HTTP/1.1" 200 -
+[16:07:30] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:30] "GET /api/session HTTP/1.1" 200 -
+[16:07:31] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:31] "GET /api/session HTTP/1.1" 200 -
+[16:07:32] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:32] "GET /api/session HTTP/1.1" 200 -
+[16:07:33] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:33] "GET /api/session HTTP/1.1" 200 -
+[16:07:35] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:35] "GET /api/session HTTP/1.1" 200 -
+[16:07:36] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:36] "GET /api/session HTTP/1.1" 200 -
+[16:07:37] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:37] "GET /api/session HTTP/1.1" 200 -
+[16:07:38] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:38] "GET /api/session HTTP/1.1" 200 -
+[16:07:39] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:39] "GET /api/session HTTP/1.1" 200 -
+[16:07:41] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:41] "GET /api/session HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /api/session HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /api/recommendations HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /static/style_previews/swiss-minimal.svg HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /static/style_previews/blueprint.svg HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /static/style_previews/editorial.svg HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /static/style_previews/glassmorphism.svg HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /static/style_previews/soft-rounded.svg HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /static/style_previews/dark-tech.svg HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /static/style_previews/photo-editorial.svg HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /static/style_previews/data-journalism.svg HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /static/style_previews/brutalist.svg HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /static/style_previews/memphis.svg HTTP/1.1" 200 -
+[16:07:42] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:42] "GET /static/style_previews/zine.svg HTTP/1.1" 200 -
+[16:07:53] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:53] "GET /static/style_previews/vintage-poster.svg HTTP/1.1" 200 -
+[16:07:53] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:53] "GET /static/style_previews/paper-cut.svg HTTP/1.1" 200 -
+[16:07:53] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:53] "GET /static/style_previews/sketch-notes.svg HTTP/1.1" 200 -
+[16:07:53] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:53] "GET /static/style_previews/ink-notes.svg HTTP/1.1" 200 -
+[16:07:53] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:53] "GET /static/style_previews/chalkboard.svg HTTP/1.1" 200 -
+[16:07:53] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:07:53] "GET /static/style_previews/ink-wash.svg HTTP/1.1" 200 -
+[16:08:07] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:07] "GET /static/style_previews/pixel-art.svg HTTP/1.1" 200 -
+[16:08:20] [INFO] confirm_ui: stage2 confirmation written to D:\github\ppt-master-1\projects\ppt169_pediatric_dyspnea_ppt169_20261019\confirm_ui\result.json
+[16:08:20] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:20] "POST /api/confirm HTTP/1.1" 200 -
+[16:08:20] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:20] "GET /api/session HTTP/1.1" 200 -
+[16:08:21] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:21] "GET /api/session HTTP/1.1" 200 -
+[16:08:22] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:22] "GET /api/session HTTP/1.1" 200 -
+[16:08:24] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:24] "GET /api/session HTTP/1.1" 200 -
+[16:08:25] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:25] "GET /api/session HTTP/1.1" 200 -
+[16:08:26] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:26] "GET /api/session HTTP/1.1" 200 -
+[16:08:27] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:27] "GET /api/session HTTP/1.1" 200 -
+[16:08:28] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:28] "GET /api/session HTTP/1.1" 200 -
+[16:08:30] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:30] "GET /api/session HTTP/1.1" 200 -
+[16:08:31] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:31] "GET /api/session HTTP/1.1" 200 -
+[16:08:32] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:32] "GET /api/session HTTP/1.1" 200 -
+[16:08:32] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:32] "GET /api/recommendations HTTP/1.1" 200 -
+[16:08:43] [INFO] confirm_ui: final confirmation written to D:\github\ppt-master-1\projects\ppt169_pediatric_dyspnea_ppt169_20261019\confirm_ui\result.json
+[16:08:43] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:43] "POST /api/confirm HTTP/1.1" 200 -
+[16:08:43] [INFO] confirm_ui: 127.0.0.1 - - [19/Oct/2026 16:08:43] "POST /api/shutdown HTTP/1.1" 200 -
+[16:08:44] [INFO] confirm_ui: shutting down (confirmed)

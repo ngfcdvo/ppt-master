@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="page-header" data-pptx-bounds="40 40 1200 92">
+    <text x="40" y="86" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="40" font-weight="bold" fill="#0F3D5C">四步定位：从病史走到床边</text>
+    <line x1="40" y1="108" x2="1240" y2="108" stroke="#0F3D5C" stroke-width="2" />
+  </g>
+
+  <g id="step-one" data-pptx-bounds="40 190 250 230">
+    <rect x="40" y="196" width="250" height="4" fill="#D97706" />
+    <text x="40" y="252" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="42" font-weight="bold" fill="#D97706">01</text>
+    <text x="40" y="300" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">起病与病程</text>
+    <text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="40" y="340">急性 / 慢性</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="40" y="364">诱因与起病方式</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="40" y="388">进展速度</text><line x1="40" y1="410" x2="290" y2="410" stroke="#1F2933" stroke-width="1" stroke-opacity="0.18" />
+  </g>
+
+  <g id="step-arrow-310" data-pptx-bounds="290 280 40 56"><text x="310" y="312" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" text-anchor="middle" fill="#2A7F9E">→</text></g>
+
+  <g id="step-two" data-pptx-bounds="330 190 250 230">
+    <rect x="330" y="196" width="250" height="4" fill="#0F3D5C" />
+    <text x="330" y="252" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="42" font-weight="bold" fill="#D97706">02</text>
+    <text x="330" y="300" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">时相定位</text>
+    <text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="330" y="340">吸气性 / 呼气性</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="330" y="364">混合性</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="330" y="388">最快的解剖线索</text><line x1="330" y1="410" x2="580" y2="410" stroke="#1F2933" stroke-width="1" stroke-opacity="0.18" />
+  </g>
+
+  <g id="step-arrow-600" data-pptx-bounds="580 280 40 56"><text x="600" y="312" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" text-anchor="middle" fill="#2A7F9E">→</text></g>
+
+  <g id="step-three" data-pptx-bounds="620 190 250 230">
+    <rect x="620" y="196" width="250" height="4" fill="#0F3D5C" />
+    <text x="620" y="252" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="42" font-weight="bold" fill="#D97706">03</text>
+    <text x="620" y="300" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">伴随症状</text>
+    <text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="620" y="340">发热、咳嗽、喘息</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="620" y="364">紫绀、意识改变</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="620" y="388">喂养与活动耐受</text><line x1="620" y1="410" x2="870" y2="410" stroke="#1F2933" stroke-width="1" stroke-opacity="0.18" />
+  </g>
+
+  <g id="step-arrow-890" data-pptx-bounds="870 280 40 56"><text x="890" y="312" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" text-anchor="middle" fill="#2A7F9E">→</text></g>
+
+  <g id="step-four" data-pptx-bounds="910 190 250 230">
+    <rect x="910" y="196" width="250" height="4" fill="#0F3D5C" />
+    <text x="910" y="252" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="42" font-weight="bold" fill="#D97706">04</text>
+    <text x="910" y="300" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">既往史与治疗反应</text>
+    <text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="910" y="340">反复喘息、先心病</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="910" y="364">免疫缺陷、异物史</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="910" y="388">抗感染 / 平喘反应</text><line x1="910" y1="410" x2="1160" y2="410" stroke="#1F2933" stroke-width="1" stroke-opacity="0.18" />
+  </g>
+
+  <g id="feedback-loop" data-pptx-bounds="150 450 920 230">
+    <line x1="1035" y1="450" x2="1035" y2="620" stroke="#2A7F9E" stroke-width="2" stroke-dasharray="6 6" />
+    <line x1="1035" y1="620" x2="165" y2="620" stroke="#2A7F9E" stroke-width="2" stroke-dasharray="6 6" />
+    <line x1="165" y1="620" x2="165" y2="492" stroke="#2A7F9E" stroke-width="2" stroke-dasharray="6 6" />
+    <polygon points="157,492 165,468 173,492" fill="#2A7F9E" />
+    <text x="185" y="600" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#2A7F9E">信息不足</text>
+    <text x="640" y="656" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" fill-opacity="0.75">四步不是一次完成：信息不足时回到床边，重复评估。</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="40 664 1200 36">
+    <text x="40" y="692" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.55">05 病因诊断四步法</text>
+    <text x="1240" y="692" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" text-anchor="end" fill="#1F2933" fill-opacity="0.55">13 / 20</text>
+  </g>
+</svg>

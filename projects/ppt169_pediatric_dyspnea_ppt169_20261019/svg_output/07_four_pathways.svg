@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="page-header" data-pptx-bounds="40 40 1200 92">
+    <text x="40" y="86" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="40" font-weight="bold" fill="#0F3D5C">四条通路，都会把呼吸推向困难</text>
+    <line x1="40" y1="108" x2="1240" y2="108" stroke="#0F3D5C" stroke-width="2"/>
+  </g>
+
+  <g id="pathway-hypoxia" data-pptx-bounds="40 144 1200 120">
+    <text x="40" y="180" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#D97706">01</text>
+    <text x="40" y="212" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">缺氧与高碳酸</text>
+    <text x="40" y="240" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.65">最重要的化学通路</text>
+    <line x1="296" y1="152" x2="296" y2="252" stroke="#1F2933" stroke-width="1" stroke-opacity="0.2"/>
+    <text x="320" y="180" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933"><tspan font-weight="bold" fill="#2A7F9E">触发 </tspan>各种肺内外疾病</text>
+    <text x="320" y="206" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933"><tspan font-weight="bold" fill="#2A7F9E">生理 </tspan>刺激颈动脉体、主动脉弓及中枢化学感受器</text>
+    <text x="320" y="230" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">CO₂ 生成 H⁺，反射性兴奋呼吸中枢<tspan x="320" dy="24">肺淤血、炎症、间质水肿刺激肺牵张感受器</tspan></text>
+    <line x1="756" y1="152" x2="756" y2="252" stroke="#1F2933" stroke-width="1" stroke-opacity="0.2"/>
+    <text x="780" y="176" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" letter-spacing="2" fill="#2A7F9E">临床对应</text>
+    <text x="780" y="212" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">呼吸急促、呼吸困难</text>
+    <line x1="40" y1="264" x2="1240" y2="264" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15"/>
+  </g>
+
+  <g id="pathway-resistance" data-pptx-bounds="40 264 1200 120">
+    <text x="40" y="300" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#D97706">02</text>
+    <text x="40" y="332" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">阻力增加</text>
+    <text x="40" y="360" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.65">用力也换不来通气</text>
+    <line x1="296" y1="272" x2="296" y2="372" stroke="#1F2933" stroke-width="1" stroke-opacity="0.2"/>
+    <text x="320" y="300" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933"><tspan font-weight="bold" fill="#2A7F9E">触发 </tspan>上呼吸道梗阻、下气道平滑肌痉挛</text>
+    <text x="320" y="326" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">气胸、大量胸腔积液</text>
+    <text x="320" y="352" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933"><tspan font-weight="bold" fill="#2A7F9E">生理 </tspan>呼吸肌本体感受器激活，反射性做功增强</text>
+    <line x1="756" y1="272" x2="756" y2="372" stroke="#1F2933" stroke-width="1" stroke-opacity="0.2"/>
+    <text x="780" y="296" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" letter-spacing="2" fill="#2A7F9E">临床对应</text>
+    <text x="780" y="332" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">三凹征、辅助呼吸肌参与</text>
+    <line x1="40" y1="384" x2="1240" y2="384" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15"/>
+  </g>
+
+  <g id="pathway-muscle" data-pptx-bounds="40 384 1200 120">
+    <text x="40" y="420" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#D97706">03</text>
+    <text x="40" y="452" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">呼吸肌受损</text>
+    <text x="40" y="480" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.65">想用力，用不上</text>
+    <line x1="296" y1="392" x2="296" y2="492" stroke="#1F2933" stroke-width="1" stroke-opacity="0.2"/>
+    <text x="320" y="420" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933"><tspan font-weight="bold" fill="#2A7F9E">触发 </tspan>肌炎、吉兰-巴雷综合征、重症肌无力</text>
+    <text x="320" y="446" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933"><tspan font-weight="bold" fill="#2A7F9E">生理 </tspan>肌力减退或麻痹，中枢传出冲动代偿性增加</text>
+    <text x="320" y="472" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">通气异常信号经迷走神经与机械感受器传入皮层</text>
+    <line x1="756" y1="392" x2="756" y2="492" stroke="#1F2933" stroke-width="1" stroke-opacity="0.2"/>
+    <text x="780" y="416" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" letter-spacing="2" fill="#2A7F9E">临床对应</text>
+    <text x="780" y="452" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">“空气不够用”的窒息感</text>
+    <line x1="40" y1="504" x2="1240" y2="504" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15"/>
+  </g>
+
+  <g id="pathway-drive" data-pptx-bounds="40 504 1200 120">
+    <text x="40" y="540" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#D97706">04</text>
+    <text x="40" y="572" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">驱动异常</text>
+    <text x="40" y="600" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.65">连“想呼吸”都被抑制</text>
+    <line x1="296" y1="512" x2="296" y2="612" stroke="#1F2933" stroke-width="1" stroke-opacity="0.2"/>
+    <text x="320" y="540" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933"><tspan font-weight="bold" fill="#2A7F9E">触发 </tspan>脑炎、颅内高压、麻醉镇静剂</text>
+    <text x="320" y="566" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933"><tspan font-weight="bold" fill="#2A7F9E">生理 </tspan>直接损害或抑制呼吸中枢，节律产生被打断</text>
+    <text x="320" y="592" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">通气驱动下降，呼吸变浅、变慢甚至暂停</text>
+    <line x1="756" y1="512" x2="756" y2="612" stroke="#1F2933" stroke-width="1" stroke-opacity="0.2"/>
+    <text x="780" y="536" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" letter-spacing="2" fill="#2A7F9E">临床对应</text>
+    <text x="780" y="572" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#D97706">呼吸节律紊乱、呼吸暂停</text>
+    <line x1="40" y1="624" x2="1240" y2="624" stroke="#0F3D5C" stroke-width="2"/>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="40 664 1200 36">
+    <text x="40" y="692" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.55">02 定义、分类与病理生理</text>
+    <text x="1240" y="692" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" text-anchor="end" fill="#1F2933" fill-opacity="0.55">07 / 20</text>
+  </g>
+</svg>

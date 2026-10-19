@@ -1,0 +1,499 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "D:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "5777fe6f1f339506bd9371931a716c729a22d2814a466b6ed0ec73e766bfbe54",
+    "file_count": 20,
+    "files": [
+      {
+        "file": "01_cover.svg",
+        "sha256": "8458d25abd305dd5e422bfb52c5d046b71ba1e5449585d8d24a02ab46376f5d6"
+      },
+      {
+        "file": "02_why_fast.svg",
+        "sha256": "a6e932cdb78a66ebafdb9a5640be4e5c91f23635bac6594732b9e8a1f7cf04a6"
+      },
+      {
+        "file": "03_agenda.svg",
+        "sha256": "3d6bebfb8dcdf22324e28db331b1e9562f14737f93e4afc4aafb3ab9c02db9dd"
+      },
+      {
+        "file": "04_definition.svg",
+        "sha256": "f396359d59a1be0936a27439321e15a22351a2d90e65ccc368b7713b07eadda1"
+      },
+      {
+        "file": "05_three_dimensions.svg",
+        "sha256": "cb0fae618a37374c126d3416514cba5fb99d28999c30d27231102905bf47c3f8"
+      },
+      {
+        "file": "06_reflex_arc.svg",
+        "sha256": "a3e5ea5f150abaaced47dea5f0e2fe52db9d7374b04857d3cfa6681ccea92cd1"
+      },
+      {
+        "file": "07_four_pathways.svg",
+        "sha256": "60b0920b23b7304b20b61e1c0576d6cb5421d70332da8bb47bf10cc404c2b658"
+      },
+      {
+        "file": "08_phase_table.svg",
+        "sha256": "add04822dc340c08148dadfc6243a9f5313cf36612886f5124b28ad42224a904"
+      },
+      {
+        "file": "09_causes_table.svg",
+        "sha256": "9b140105797c6ffaf3637f332620f3bfb056e3c8e9597a87028b3f4ba1f749c5"
+      },
+      {
+        "file": "10_cardiac_vs_pulmonary.svg",
+        "sha256": "5d389e6d59580bbf1fce069dc60a5ad47efe9e2a989f9a6d1a6dc0accc57a761"
+      },
+      {
+        "file": "11_severity_steps.svg",
+        "sha256": "e416e3906f9ae4846d5181dce149b1bad03d9f3eb032d76d3bde4ca61e0f9ca8"
+      },
+      {
+        "file": "12_abcde.svg",
+        "sha256": "3f027fd2053325a780bcec26213c0204cc7b0070cf665b9f33f58c776398484a"
+      },
+      {
+        "file": "13_four_steps.svg",
+        "sha256": "1bee6b479827137dc4d87d6a1b39b434cf30110d6f2b59d07e1aa47c2900245e"
+      },
+      {
+        "file": "14_inspiratory_expiratory.svg",
+        "sha256": "2da8e46d6684f85c8595f9e3c4a420b3d9988e61a5135a905c624135a8e50eb0"
+      },
+      {
+        "file": "15_stridor_tachypnea.svg",
+        "sha256": "e58b90f1814da26faa22736e06c723c5c8b450bf503b23150669fc1adcd783e3"
+      },
+      {
+        "file": "16_mixed_type.svg",
+        "sha256": "5129f631d224e832ecfcc1630110fa5963c429f7c6cb1fbd544e18631e169100"
+      },
+      {
+        "file": "17_slow_type.svg",
+        "sha256": "3c0a5113ad3617fa3290f2373d98a422ce69ccb4ea8a923bc61cc6209b737cea"
+      },
+      {
+        "file": "18_emergency_six.svg",
+        "sha256": "135a41e4c7ef46c91eeb5d9f904ce5674f523e5f35453347fea8ca8c70b77676"
+      },
+      {
+        "file": "19_cause_treatment.svg",
+        "sha256": "d7814d6b3b6e9fada5874e0935cc80909b5a8dabc905144304ca0f3d3b2e4f57"
+      },
+      {
+        "file": "20_closing.svg",
+        "sha256": "5386927fe7e6a7a36a9cac9c55d3f6dd5ffda935e14ce11e4a4b7997832c572a"
+      }
+    ]
+  },
+  "summary": {
+    "total": 20,
+    "passed": 20,
+    "warnings": 0,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 0,
+      "issues": []
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {},
+    "fonts": {},
+    "sizes": {
+      "14": [
+        "01_cover.svg"
+      ],
+      "15": [
+        "01_cover.svg"
+      ],
+      "28": [
+        "01_cover.svg"
+      ],
+      "52": [
+        "02_why_fast.svg"
+      ],
+      "84": [
+        "01_cover.svg"
+      ]
+    }
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "01_cover.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\01_cover.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 1,
+        "sparse_typography_sizes": {
+          "14": 1,
+          "15": 1,
+          "28": 1,
+          "84": 1
+        }
+      },
+      "passed": true,
+      "source_sha256": "8458d25abd305dd5e422bfb52c5d046b71ba1e5449585d8d24a02ab46376f5d6"
+    },
+    {
+      "file": "02_why_fast.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\02_why_fast.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 21,
+        "tspan_elements": 0,
+        "sparse_typography_sizes": {
+          "52": 2
+        }
+      },
+      "passed": true,
+      "source_sha256": "a6e932cdb78a66ebafdb9a5640be4e5c91f23635bac6594732b9e8a1f7cf04a6"
+    },
+    {
+      "file": "03_agenda.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\03_agenda.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 26,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "3d6bebfb8dcdf22324e28db331b1e9562f14737f93e4afc4aafb3ab9c02db9dd"
+    },
+    {
+      "file": "04_definition.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\04_definition.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 15,
+        "tspan_elements": 3
+      },
+      "passed": true,
+      "source_sha256": "f396359d59a1be0936a27439321e15a22351a2d90e65ccc368b7713b07eadda1"
+    },
+    {
+      "file": "05_three_dimensions.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\05_three_dimensions.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 36,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "cb0fae618a37374c126d3416514cba5fb99d28999c30d27231102905bf47c3f8"
+    },
+    {
+      "file": "06_reflex_arc.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\06_reflex_arc.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 30,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "a3e5ea5f150abaaced47dea5f0e2fe52db9d7374b04857d3cfa6681ccea92cd1"
+    },
+    {
+      "file": "07_four_pathways.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\07_four_pathways.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 35,
+        "tspan_elements": 9
+      },
+      "passed": true,
+      "source_sha256": "60b0920b23b7304b20b61e1c0576d6cb5421d70332da8bb47bf10cc404c2b658"
+    },
+    {
+      "file": "08_phase_table.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\08_phase_table.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 23,
+        "tspan_elements": 15
+      },
+      "passed": true,
+      "source_sha256": "add04822dc340c08148dadfc6243a9f5313cf36612886f5124b28ad42224a904"
+    },
+    {
+      "file": "09_causes_table.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\09_causes_table.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 24,
+        "tspan_elements": 22
+      },
+      "passed": true,
+      "source_sha256": "9b140105797c6ffaf3637f332620f3bfb056e3c8e9597a87028b3f4ba1f749c5"
+    },
+    {
+      "file": "10_cardiac_vs_pulmonary.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\10_cardiac_vs_pulmonary.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 28,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "5d389e6d59580bbf1fce069dc60a5ad47efe9e2a989f9a6d1a6dc0accc57a761"
+    },
+    {
+      "file": "11_severity_steps.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\11_severity_steps.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 16,
+        "tspan_elements": 7
+      },
+      "passed": true,
+      "source_sha256": "e416e3906f9ae4846d5181dce149b1bad03d9f3eb032d76d3bde4ca61e0f9ca8"
+    },
+    {
+      "file": "12_abcde.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\12_abcde.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 38,
+        "tspan_elements": 12
+      },
+      "passed": true,
+      "source_sha256": "3f027fd2053325a780bcec26213c0204cc7b0070cf665b9f33f58c776398484a"
+    },
+    {
+      "file": "13_four_steps.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\13_four_steps.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 20,
+        "tspan_elements": 8
+      },
+      "passed": true,
+      "source_sha256": "1bee6b479827137dc4d87d6a1b39b434cf30110d6f2b59d07e1aa47c2900245e"
+    },
+    {
+      "file": "14_inspiratory_expiratory.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\14_inspiratory_expiratory.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 21,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "2da8e46d6684f85c8595f9e3c4a420b3d9988e61a5135a905c624135a8e50eb0"
+    },
+    {
+      "file": "15_stridor_tachypnea.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\15_stridor_tachypnea.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 15,
+        "tspan_elements": 3
+      },
+      "passed": true,
+      "source_sha256": "e58b90f1814da26faa22736e06c723c5c8b450bf503b23150669fc1adcd783e3"
+    },
+    {
+      "file": "16_mixed_type.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\16_mixed_type.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 17,
+        "tspan_elements": 3
+      },
+      "passed": true,
+      "source_sha256": "5129f631d224e832ecfcc1630110fa5963c429f7c6cb1fbd544e18631e169100"
+    },
+    {
+      "file": "17_slow_type.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\17_slow_type.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 23,
+        "tspan_elements": 3
+      },
+      "passed": true,
+      "source_sha256": "3c0a5113ad3617fa3290f2373d98a422ce69ccb4ea8a923bc61cc6209b737cea"
+    },
+    {
+      "file": "18_emergency_six.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\18_emergency_six.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 22,
+        "tspan_elements": 16
+      },
+      "passed": true,
+      "source_sha256": "135a41e4c7ef46c91eeb5d9f904ce5674f523e5f35453347fea8ca8c70b77676"
+    },
+    {
+      "file": "19_cause_treatment.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\19_cause_treatment.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 20,
+        "tspan_elements": 4
+      },
+      "passed": true,
+      "source_sha256": "d7814d6b3b6e9fada5874e0935cc80909b5a8dabc905144304ca0f3d3b2e4f57"
+    },
+    {
+      "file": "20_closing.svg",
+      "path": "d:\\github\\ppt-master-1\\projects\\ppt169_pediatric_dyspnea_ppt169_20261019\\svg_output\\20_closing.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "fonts": [
+          "'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif"
+        ],
+        "text_elements": 17,
+        "tspan_elements": 4
+      },
+      "passed": true,
+      "source_sha256": "5386927fe7e6a7a36a9cac9c55d3f6dd5ffda935e14ce11e4a4b7997832c572a"
+    }
+  ]
+}

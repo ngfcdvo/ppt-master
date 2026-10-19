@@ -1,0 +1,60 @@
+{
+  "canvas": "ppt169",
+  "audience": "儿科（含急诊、呼吸与危重症）临床医师、规培医生与进修医生；已具备基本儿科查体和急救知识，但需要一套系统、可复用的病因定位思路。",
+  "communication_intent": "先讲清儿童呼吸困难的特殊性与病理生理基础，再建立“四步法”病因定位路径，最后落到分度评估与急救处理；以教学讲解为主，兼顾临床速查。",
+  "audience_outcome": "听众能独立完成 ABCDE 快速评估与轻/中/重度分度，按“吸气性/呼气性 → 喘息/急促 → 混合性 → 缓慢型”的顺序定位病因，并说出心源性 vs 肺源性的关键鉴别点。",
+  "core_message": "儿童急性呼吸困难先救命、后治病：用 ABCDE 分层严重度，用四步法定位病因，并警惕最易漏诊的“慢、浅、弱”型呼吸障碍。",
+  "delivery_context": "科室业务学习 / 病例讨论会，约 30 分钟，主讲人现场讲解；会后文件可自行翻阅。",
+  "artifact_afterlife": "作为科室培训与带教资料留存，也可在急诊交接班时快速查阅关键流程与鉴别表。",
+  "content_divergence": "",
+  "delivery_purpose": "balanced",
+  "page_count": "18-20",
+  "mode": "instructional",
+  "visual_style": "swiss-minimal",
+  "color": {
+    "name": "临床冷静",
+    "palette": {
+      "background": "#FFFFFF",
+      "secondary_bg": "#F1F5F9",
+      "primary": "#0F3D5C",
+      "accent": "#D97706",
+      "secondary_accent": "#2A7F9E",
+      "body_text": "#1F2933"
+    }
+  },
+  "icons": "tabler-outline",
+  "typography": {
+    "name": "清晰黑体",
+    "heading": {
+      "cjk": "Microsoft YaHei",
+      "css": "sans-serif",
+      "latin": "Arial",
+      "sample_cjk": "",
+      "sample_latin": ""
+    },
+    "body": {
+      "cjk": "Microsoft YaHei",
+      "css": "sans-serif",
+      "latin": "Arial",
+      "sample_cjk": "",
+      "sample_latin": ""
+    },
+    "body_size": 24,
+    "sizes": {
+      "annotation": 18,
+      "subtitle": 32,
+      "title": 42
+    },
+    "body_size_unit": "px"
+  },
+  "image_usage": [
+    "none"
+  ],
+  "image_notes": "本套内容为临床诊疗思路，不使用照片或 AI 插画。视觉表达全部由原生 SVG 承担：呼吸反射弧、四步法流程图、分度阶梯、心源/肺源鉴别对照表、ABCDE 评估卡与缓慢型呼吸障碍示意。若出现装饰性图形，仅限几何线条与图标，不得引入与主题无关的配图。",
+  "formula_policy": "text-only",
+  "generation_mode": "continuous",
+  "refine_spec": false,
+  "stage": "final",
+  "status": "confirmed",
+  "confirmed_at": "2026-10-19T16:08:43"
+}

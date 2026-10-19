@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+  <rect id="closing-panel" data-pptx-role="background" x="0" y="0" width="900" height="720" fill="#0F3D5C"/>
+
+  <g id="closing-statements" data-pptx-bounds="60 100 780 480">
+    <text x="60" y="144" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" letter-spacing="3" fill="#D97706">TAKE HOME</text>
+    <text x="60" y="234" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#D97706">01</text>
+    <text x="122" y="234" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="42" font-weight="bold" fill="#FFFFFF">先救命</text>
+    <text x="122" y="270" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" fill="#FFFFFF" fill-opacity="0.78">A、B、C 先稳住，再谈病因</text>
+
+    <text x="60" y="374" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#D97706">02</text>
+    <text x="122" y="374" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="42" font-weight="bold" fill="#FFFFFF">再定位</text>
+    <text x="122" y="410" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" fill="#FFFFFF" fill-opacity="0.78">时相、病因、严重度三线并行</text>
+
+    <text x="60" y="514" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#D97706">03</text>
+    <text x="122" y="514" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="42" font-weight="bold" fill="#D97706">别漏慢型</text>
+    <text x="122" y="550" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" fill="#FFFFFF" fill-opacity="0.78">呼吸不快、意识改变，同样危重</text>
+  </g>
+
+  <g id="closing-meta" data-pptx-bounds="940 90 300 340">
+    <text x="940" y="128" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" letter-spacing="2" fill="#D97706">文献来源</text>
+    <text x="940" y="164" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933" fill-opacity="0.78">朱昱瑶，付红敏.<tspan x="940" dy="24">儿童急性呼吸困难的诊疗思路.</tspan><tspan x="940" dy="24">中国实用儿科杂志.</tspan><tspan x="940" dy="24">2026;41(9):729-732.</tspan></text>
+    <text x="940" y="316" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933" fill-opacity="0.6">DOI 10.19538/j.ek2026090604</text>
+    <line x1="940" y1="348" x2="1240" y2="348" stroke="#0F3D5C" stroke-width="1"/>
+    <text x="940" y="388" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#0F3D5C">昆明医科大学附属儿童医院<tspan x="940" dy="26">呼吸与危重症医学科</tspan></text>
+  </g>
+
+  <g id="closing-sign" data-pptx-bounds="940 600 300 84">
+    <text x="940" y="646" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="40" font-weight="bold" fill="#0F3D5C">谢谢</text>
+    <text x="940" y="678" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933" fill-opacity="0.55">2026 · 科室业务学习</text>
+    <text x="1240" y="678" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" text-anchor="end" fill="#1F2933" fill-opacity="0.55">20 / 20</text>
+  </g>
+</svg>

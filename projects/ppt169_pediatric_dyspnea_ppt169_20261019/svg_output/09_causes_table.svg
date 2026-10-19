@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="page-header" data-pptx-bounds="40 40 1200 92">
+    <text x="40" y="86" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="40" font-weight="bold" fill="#0F3D5C">再看病因：心、中毒、血、神经精神</text>
+    <line x1="40" y1="108" x2="1240" y2="108" stroke="#0F3D5C" stroke-width="2"/>
+  </g>
+
+  <g id="cause-cardiac" data-pptx-bounds="40 150 1200 112">
+    <line x1="40" y1="150" x2="1240" y2="150" stroke="#0F3D5C" stroke-width="2"/>
+    <text x="40" y="198" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">心源性</text>
+    <text x="40" y="224" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933" fill-opacity="0.6">左心功能不全</text>
+    <text x="260" y="184" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">左心功能不全致肺淤血、肺泡弹性减低<tspan x="260" dy="24">弥散下降，肺牵张感受器受刺激</tspan></text>
+    <text x="680" y="184" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">呼吸急促、费力<tspan x="680" dy="24">两肺湿啰音及哮鸣音</tspan><tspan x="680" dy="24">与肺炎 / ARDS 难以鉴别</tspan></text>
+    <text x="1020" y="184" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#D97706">心影增大、LVEF 降低<tspan x="1020" dy="24">下腔静脉塌陷 &lt;50%</tspan><tspan x="1020" dy="24">BNP 增高</tspan></text>
+    <line x1="40" y1="262" x2="1240" y2="262" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15"/>
+  </g>
+
+  <g id="cause-toxic" data-pptx-bounds="40 262 1200 112">
+    <text x="40" y="310" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">中毒性</text>
+    <text x="40" y="336" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933" fill-opacity="0.6">代谢与毒物</text>
+    <text x="260" y="296" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">酸中毒 / DKA / 休克 → H⁺ 升高、pH 降低<tspan x="260" dy="24">刺激外周化学感受器或兴奋呼吸中枢</tspan><tspan x="260" dy="24">中枢抑制药、有机磷等毒物</tspan></text>
+    <text x="680" y="296" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">Kussmaul 深大、急促、规则呼吸<tspan x="680" dy="24">镇静药：缓慢变浅、节律异常</tspan><tspan x="680" dy="24">有机磷：大量泡沫样分泌物</tspan></text>
+    <text x="1020" y="296" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#D97706">特殊气味、毒物接触史<tspan x="1020" dy="24">肺部常无阳性体征</tspan></text>
+    <line x1="40" y1="374" x2="1240" y2="374" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15"/>
+  </g>
+
+  <g id="cause-blood" data-pptx-bounds="40 374 1200 112">
+    <text x="40" y="422" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">血源性</text>
+    <text x="40" y="448" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933" fill-opacity="0.6">携氧能力下降</text>
+    <text x="260" y="408" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">血红蛋白量或质异常<tspan x="260" dy="24">严重贫血、CO / 氰化物中毒</tspan><tspan x="260" dy="24">亚硝酸盐过量 → 携氧下降</tspan></text>
+    <text x="680" y="408" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">呼吸浅而快、心率增快<tspan x="680" dy="24">呼吸 / 心率比例正常</tspan><tspan x="680" dy="24">常无呼吸费力</tspan></text>
+    <text x="1020" y="408" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#D97706">贫血貌<tspan x="1020" dy="24">紫绀与呼吸费力不匹配</tspan><tspan x="1020" dy="24">肺部无体征、影像无异常</tspan></text>
+    <line x1="40" y1="486" x2="1240" y2="486" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15"/>
+  </g>
+
+  <g id="cause-neuro" data-pptx-bounds="40 486 1200 112">
+    <text x="40" y="534" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">神经精神性</text>
+    <text x="40" y="560" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933" fill-opacity="0.6">中枢 / 精神</text>
+    <text x="260" y="520" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">中枢病变 → 颅高压、脑干受压<tspan x="260" dy="24">破坏呼吸节律的产生与传导</tspan><tspan x="260" dy="24">癔症 / 焦虑 → 过度通气</tspan></text>
+    <text x="680" y="520" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">潮式呼吸、抽泣样呼吸、间停呼吸<tspan x="680" dy="24">精神性：快而浅、无客观表现</tspan><tspan x="680" dy="24">呼吸性碱中毒、手足搐搦</tspan></text>
+    <text x="1020" y="520" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#D97706">意识改变、瞳孔异常<tspan x="1020" dy="24">情绪诱因</tspan><tspan x="1020" dy="24">症状与体征分离</tspan></text>
+    <line x1="40" y1="598" x2="1240" y2="598" stroke="#0F3D5C" stroke-width="2"/>
+  </g>
+
+  <g id="table-warning" data-pptx-bounds="40 606 1200 44">
+    <rect x="40" y="614" width="4" height="26" fill="#D97706"/>
+    <text x="60" y="636" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.8">肺部体征阴性或与病情不相符时，必须把心源、中毒、血源、神经精神四类肺外原因纳入鉴别。</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="40 664 1200 36">
+    <text x="40" y="692" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.55">03 病因与临床谱</text>
+    <text x="1240" y="692" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" text-anchor="end" fill="#1F2933" fill-opacity="0.55">09 / 20</text>
+  </g>
+</svg>

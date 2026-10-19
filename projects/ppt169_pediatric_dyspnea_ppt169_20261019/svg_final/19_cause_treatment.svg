@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="page-header" data-pptx-bounds="40 40 1200 92">
+    <text x="40" y="86" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="40" font-weight="bold" fill="#0F3D5C">不同病因，处理重点不同</text>
+    <line x1="40" y1="108" x2="1240" y2="108" stroke="#0F3D5C" stroke-width="2" />
+  </g>
+
+  <g id="treat-airway" data-pptx-bounds="40 150 1200 110">
+    <line x1="40" y1="150" x2="1240" y2="150" stroke="#0F3D5C" stroke-width="2" />
+    <text x="40" y="196" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">气道梗阻</text>
+    <text x="40" y="222" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933" fill-opacity="0.65">喉炎、喉软化、气道异物</text>
+    <text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="420" y="196">开放气道、清除分泌物与异物</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="420" y="222">必要时建立高级气道，保证通气</text><text x="920" y="200" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" font-weight="bold" fill="#D97706">先保通畅</text>
+    <line x1="40" y1="260" x2="1240" y2="260" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15" />
+  </g>
+
+  <g id="treat-bronchospasm" data-pptx-bounds="40 260 1200 110">
+    <text x="40" y="306" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">下气道痉挛</text>
+    <text x="40" y="332" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933" fill-opacity="0.65">哮喘、毛细支气管炎</text>
+    <text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="420" y="306">支气管舒张剂、糖皮质激素</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="420" y="332">氧疗，评估通气支持指征</text><text x="920" y="310" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" font-weight="bold" fill="#D97706">解痉 + 抗炎</text>
+    <line x1="40" y1="370" x2="1240" y2="370" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15" />
+  </g>
+
+  <g id="treat-parenchyma" data-pptx-bounds="40 370 1200 110">
+    <text x="40" y="416" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">肺实质病变</text>
+    <text x="40" y="442" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933" fill-opacity="0.65">肺炎、肺水肿、ARDS</text>
+    <text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="420" y="416">抗感染、利尿，处理肺水肿</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="420" y="442">氧疗与通气支持，纠正低氧</text><text x="920" y="420" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" font-weight="bold" fill="#D97706">处理肺本身</text>
+    <line x1="40" y1="480" x2="1240" y2="480" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15" />
+  </g>
+
+  <g id="treat-extrapulmonary" data-pptx-bounds="40 480 1200 110">
+    <text x="40" y="526" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">肺外原因</text>
+    <text x="40" y="552" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933" fill-opacity="0.65">心、中毒、血、神经精神</text>
+    <text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="420" y="526">强心利尿、纠正酸中毒、解毒</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="420" y="552">纠正贫血、降颅压、控制精神症状</text><text x="920" y="530" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" font-weight="bold" fill="#D97706">治肺外，呼吸自缓</text>
+    <line x1="40" y1="590" x2="1240" y2="590" stroke="#0F3D5C" stroke-width="2" />
+  </g>
+
+  <g id="treat-note" data-pptx-bounds="40 600 1200 44">
+    <rect x="40" y="610" width="4" height="26" fill="#D97706" />
+    <text x="60" y="632" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.8">病因处理与支持治疗并行：不要等病因明确，才开始氧疗与通气。</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="40 664 1200 36">
+    <text x="40" y="692" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.55">06 治疗与收束</text>
+    <text x="1240" y="692" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" text-anchor="end" fill="#1F2933" fill-opacity="0.55">19 / 20</text>
+  </g>
+</svg>

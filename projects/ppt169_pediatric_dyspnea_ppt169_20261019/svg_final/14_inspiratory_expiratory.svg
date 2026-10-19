@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+
+  <g id="page-header" data-pptx-bounds="40 40 1200 92">
+    <text x="40" y="86" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="40" font-weight="bold" fill="#0F3D5C">吸气性 vs 呼气性：看动作，也看体征</text>
+    <line x1="40" y1="108" x2="1240" y2="108" stroke="#0F3D5C" stroke-width="2" />
+  </g>
+
+  <g id="inspiratory-panel" data-pptx-bounds="40 150 580 470">
+    <rect x="40" y="160" width="6" height="56" fill="#0F3D5C" />
+    <text x="62" y="200" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="40" font-weight="bold" fill="#0F3D5C">吸气性</text>
+    <text x="62" y="232" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" fill="#2A7F9E">胸外大气道：喉、声门下、气管</text>
+    <rect x="40" y="256" width="560" height="88" fill="#F1F5F9" />
+    <text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="60" y="290">狭窄位于胸外大气道</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="60" y="314">吸气时表现最明显，呈吸气费力</text><text x="40" y="386" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" font-weight="bold" letter-spacing="2" fill="#D97706">体征</text>
+    <rect x="40" y="414" width="5" height="5" fill="#0F3D5C" />
+    <text x="58" y="422" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">三凹征：胸骨上窝、锁骨上窝、肋间隙</text>
+    <rect x="40" y="448" width="5" height="5" fill="#0F3D5C" />
+    <text x="58" y="456" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">张口呼吸、鼻翼扇动、点头样呼吸</text>
+    <rect x="40" y="482" width="5" height="5" fill="#0F3D5C" />
+    <text x="58" y="490" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">高调吸气性喉鸣</text>
+    <rect x="40" y="516" width="5" height="5" fill="#0F3D5C" />
+    <text x="58" y="524" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">犬吠样咳嗽、声音嘶哑</text>
+    <rect x="40" y="550" width="5" height="5" fill="#0F3D5C" />
+    <text x="58" y="558" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">严重时出现紫绀与烦躁</text>
+  </g>
+
+  <g id="expiratory-panel" data-pptx-bounds="660 150 580 470">
+    <line x1="640" y1="160" x2="640" y2="600" stroke="#1F2933" stroke-width="1" stroke-opacity="0.2" />
+    <rect x="660" y="160" width="6" height="56" fill="#2A7F9E" />
+    <text x="682" y="200" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="40" font-weight="bold" fill="#0F3D5C">呼气性</text>
+    <text x="682" y="232" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" fill="#2A7F9E">胸内小气道：支气管、细支气管</text>
+    <rect x="660" y="256" width="560" height="88" fill="#F1F5F9" />
+    <text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="680" y="290">病变位于胸内小气道</text><text font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" x="680" y="314">呼气时表现最明显，呈呼气延长</text><text x="660" y="386" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" font-weight="bold" letter-spacing="2" fill="#D97706">体征</text>
+    <rect x="660" y="414" width="5" height="5" fill="#2A7F9E" />
+    <text x="678" y="422" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">呼气延长、呼气费力</text>
+    <rect x="660" y="448" width="5" height="5" fill="#2A7F9E" />
+    <text x="678" y="456" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">呼气相哮鸣音，严重时吸气相亦可闻及</text>
+    <rect x="660" y="482" width="5" height="5" fill="#2A7F9E" />
+    <text x="678" y="490" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">辅助呼吸肌参与、三凹征</text>
+    <rect x="660" y="516" width="5" height="5" fill="#2A7F9E" />
+    <text x="678" y="524" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">肺过度充气、桶状胸</text>
+    <rect x="660" y="550" width="5" height="5" fill="#2A7F9E" />
+    <text x="678" y="558" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933">说话断续、活动耐受下降</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="40 664 1200 36">
+    <text x="40" y="692" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.55">05 病因诊断四步法</text>
+    <text x="1240" y="692" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" text-anchor="end" fill="#1F2933" fill-opacity="0.55">14 / 20</text>
+  </g>
+</svg>

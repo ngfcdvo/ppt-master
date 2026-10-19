@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" data-pptx-page-role="content">
+  <rect id="page-bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+
+  <g id="page-header" data-pptx-bounds="40 40 1200 92">
+    <text x="40" y="86" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="40" font-weight="bold" fill="#0F3D5C">用 ABCDE 做第一次分层</text>
+    <line x1="40" y1="108" x2="1240" y2="108" stroke="#0F3D5C" stroke-width="2"/>
+  </g>
+
+  <g id="abcde-a" data-pptx-bounds="40 150 200 480">
+    <rect x="40" y="160" width="200" height="450" fill="#F1F5F9"/>
+    <rect x="40" y="160" width="200" height="6" fill="#0F3D5C"/>
+    <text x="56" y="216" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="42" font-weight="bold" fill="#D97706">A</text>
+    <text x="56" y="254" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">气道</text>
+    <line x1="56" y1="274" x2="224" y2="274" stroke="#0F3D5C" stroke-width="1"/>
+    <text x="56" y="304" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#2A7F9E">要问</text>
+    <text x="56" y="330" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933">能否发声、<tspan x="56" dy="22">哭声响亮？</tspan></text>
+    <text x="56" y="424" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#D97706">危险信号</text>
+    <text x="56" y="450" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933">无法发声、<tspan x="56" dy="22">流涎、</tspan><tspan x="56" dy="22">吸气性喉鸣</tspan></text>
+    <line x1="56" y1="548" x2="224" y2="548" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15"/>
+    <text x="56" y="582" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" font-weight="bold" fill="#0F3D5C">先保通畅</text>
+  </g>
+
+  <g id="abcde-b" data-pptx-bounds="280 150 200 480">
+    <rect x="280" y="160" width="200" height="450" fill="#F1F5F9"/>
+    <rect x="280" y="160" width="200" height="6" fill="#0F3D5C"/>
+    <text x="296" y="216" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="42" font-weight="bold" fill="#D97706">B</text>
+    <text x="296" y="254" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">呼吸</text>
+    <line x1="296" y1="274" x2="464" y2="274" stroke="#0F3D5C" stroke-width="1"/>
+    <text x="296" y="304" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#2A7F9E">要问</text>
+    <text x="296" y="330" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933">呼吸频率、<tspan x="296" dy="22">三凹征、紫绀？</tspan></text>
+    <text x="296" y="424" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#D97706">危险信号</text>
+    <text x="296" y="450" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933">呼吸暂停、<tspan x="296" dy="22">点头呼吸、</tspan><tspan x="296" dy="22">SpO₂ 下降</tspan></text>
+    <line x1="296" y1="548" x2="464" y2="548" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15"/>
+    <text x="296" y="582" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" font-weight="bold" fill="#0F3D5C">先保氧合</text>
+  </g>
+
+  <g id="abcde-c" data-pptx-bounds="520 150 200 480">
+    <rect x="520" y="160" width="200" height="450" fill="#F1F5F9"/>
+    <rect x="520" y="160" width="200" height="6" fill="#0F3D5C"/>
+    <text x="536" y="216" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="42" font-weight="bold" fill="#D97706">C</text>
+    <text x="536" y="254" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">循环</text>
+    <line x1="536" y1="274" x2="704" y2="274" stroke="#0F3D5C" stroke-width="1"/>
+    <text x="536" y="304" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#2A7F9E">要问</text>
+    <text x="536" y="330" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933">心率、灌注、<tspan x="536" dy="22">血压？</tspan></text>
+    <text x="536" y="424" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#D97706">危险信号</text>
+    <text x="536" y="450" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933">心动过缓、<tspan x="536" dy="22">花斑、低血压</tspan></text>
+    <line x1="536" y1="548" x2="704" y2="548" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15"/>
+    <text x="536" y="582" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" font-weight="bold" fill="#0F3D5C">先保灌注</text>
+  </g>
+
+  <g id="abcde-d" data-pptx-bounds="760 150 200 480">
+    <rect x="760" y="160" width="200" height="450" fill="#F1F5F9"/>
+    <rect x="760" y="160" width="200" height="6" fill="#0F3D5C"/>
+    <text x="776" y="216" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="42" font-weight="bold" fill="#D97706">D</text>
+    <text x="776" y="254" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">意识</text>
+    <line x1="776" y1="274" x2="944" y2="274" stroke="#0F3D5C" stroke-width="1"/>
+    <text x="776" y="304" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#2A7F9E">要问</text>
+    <text x="776" y="330" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933">清醒程度、<tspan x="776" dy="22">反应与肌张力？</tspan></text>
+    <text x="776" y="424" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#D97706">危险信号</text>
+    <text x="776" y="450" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933">嗜睡、昏迷、<tspan x="776" dy="22">抽搐</tspan></text>
+    <line x1="776" y1="548" x2="944" y2="548" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15"/>
+    <text x="776" y="582" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" font-weight="bold" fill="#0F3D5C">先保反应</text>
+  </g>
+
+  <g id="abcde-e" data-pptx-bounds="1000 150 200 480">
+    <rect x="1000" y="160" width="200" height="450" fill="#F1F5F9"/>
+    <rect x="1000" y="160" width="200" height="6" fill="#D97706"/>
+    <text x="1016" y="216" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="42" font-weight="bold" fill="#D97706">E</text>
+    <text x="1016" y="254" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="24" font-weight="bold" fill="#0F3D5C">暴露</text>
+    <line x1="1016" y1="274" x2="1184" y2="274" stroke="#0F3D5C" stroke-width="1"/>
+    <text x="1016" y="304" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#2A7F9E">要问</text>
+    <text x="1016" y="330" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933">皮疹、外伤、<tspan x="1016" dy="22">胸壁畸形？</tspan></text>
+    <text x="1016" y="424" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" font-weight="bold" fill="#D97706">危险信号</text>
+    <text x="1016" y="450" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="16" fill="#1F2933">紫绀、瘀斑、<tspan x="1016" dy="22">胸壁反常运动</tspan></text>
+    <line x1="1016" y1="548" x2="1184" y2="548" stroke="#1F2933" stroke-width="1" stroke-opacity="0.15"/>
+    <text x="1016" y="582" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="20" font-weight="bold" fill="#0F3D5C">先找病因</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="40 664 1200 36">
+    <text x="40" y="692" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" fill="#1F2933" fill-opacity="0.55">04 分度与快速评估</text>
+    <text x="1240" y="692" font-family="'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', Arial, sans-serif" font-size="18" text-anchor="end" fill="#1F2933" fill-opacity="0.55">12 / 20</text>
+  </g>
+</svg>
